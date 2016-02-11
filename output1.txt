@@ -1,0 +1,2501 @@
+    '!'     16    
+    '     6    
+        protected    :false        verified    :false        followers_count    :279        friends_count    :470        listed_count    :22        favourites_count    :259        statuses_count    :1152        created_at    :    Wed'     1    
+        protected    :false        verified    :false        followers_count    :279        friends_count    :470        listed_count    :22        favourites_count    :262        statuses_count    :1153        created_at    :    Wed'     1    
+        protected    :false        verified    :false        followers_count    :3131        friends_count    :1766        listed_count    :11        favourites_count    :52        statuses_count    :13309        created_at    :    Sat'     1    
+        protected    :false        verified    :false        followers_count    :60        friends_count    :140        listed_count    :4        favourites_count    :991        statuses_count    :719        created_at    :    Thu'     1    
+        protected    :false        verified    :false        followers_count    :907        friends_count    :579        listed_count    :51        favourites_count    :0        statuses_count    :145370        created_at    :    Mon'     1    
+        protected    :false        verified    :false        followers_count    :907        friends_count    :579        listed_count    :51        favourites_count    :0        statuses_count    :145374        created_at    :    Mon'     1    
+        source    :        '     2    
+                protected    :false        verified    :false        followers_count    :1116        friends_count    :2071        listed_count    :243        favourites_count    :0        statuses_count    :3324        created_at    :    Wed'     1    
+                protected    :false        verified    :false        followers_count    :1118        friends_count    :2070        listed_count    :243        favourites_count    :0        statuses_count    :3325        created_at    :    Wed'     1    
+                protected    :false        verified    :false        followers_count    :427        friends_count    :580        listed_count    :76        favourites_count    :0        statuses_count    :183647        created_at    :    Tue'     1    
+                protected    :false        verified    :false        followers_count    :484        friends_count    :588        listed_count    :64        favourites_count    :0        statuses_count    :122335        created_at    :    Mon'     1    
+                protected    :false        verified    :false        followers_count    :630        friends_count    :931        listed_count    :119        favourites_count    :0        statuses_count    :191553        created_at    :    Thu'     1    
+                protected    :false        verified    :false        followers_count    :781        friends_count    :908        listed_count    :86        favourites_count    :0        statuses_count    :183130        created_at    :    Tue'     1    
+                protected    :false        verified    :false        followers_count    :823        friends_count    :602        listed_count    :120        favourites_count    :0        statuses_count    :194619        created_at    :    Tue'     1    
+                protected    :false        verified    :false        followers_count    :855        friends_count    :913        listed_count    :64        favourites_count    :0        statuses_count    :118389        created_at    :    Fri'     1    
+                screen_name    :    Hot_Deals283            location    :    USA            url    :null        description    :null        protected    :false        verified    :false        followers_count    :263        friends_count    :31        listed_count    :56        favourites_count    :2        statuses_count    :327157        created_at    :    Thu'     1    
+    '!            id    :4496266527        id_str    :    4496266527            indices    :[3    19]}]        symbols    :[]        media    :[{    id    :677288791267139584        id_str    :    677288791267139584            indices    :[47    70]        media_url    :    http:\\/\\/pbs.twimg.com\\/media\\/CWY2kTXU4AAKnYK.jpg            media_url_https    :    https:\\/\\/pbs.twimg.com\\/media\\/CWY2kTXU4AAKnYK.jpg            url    :    https:\\/\\/t.co\\/D5Jc2p15wq            display_url    :    pic.twitter.com\\/D5Jc2p15wq            expanded_url    :    http:\\/\\/twitter.com\\/musicaestheticx\\/status\\/677288805032853505\\/photo\\/1            type    :    photo            sizes    :{    small    :{    w    :340        h    :340        resize    :    fit    }        thumb    :{    w    :150        h    :150        resize    :    crop    }        medium    :{    w    :600        h    :600        resize    :    fit    }        large    :{    w    :1024        h    :1024        resize    :    fit    }}        source_status_id    :677288805032853505        source_status_id_str    :    677288805032853505            source_user_id    :4496266527        source_user_id_str    :    4496266527    }]}        extended_entities    :{    media    :[{    id    :677288791267139584        id_str    :    677288791267139584            indices    :[47    70]        media_url    :    http:\\/\\/pbs.twimg.com\\/media\\/CWY2kTXU4AAKnYK.jpg            media_url_https    :    https:\\/\\/pbs.twimg.com\\/media\\/CWY2kTXU4AAKnYK.jpg            url    :    https:\\/\\/t.co\\/D5Jc2p15wq            display_url    :    pic.twitter.com\\/D5Jc2p15wq            expanded_url    :    http:\\/\\/twitter.com\\/musicaestheticx\\/status\\/677288805032853505\\/photo\\/1            type    :    photo            sizes    :{    small    :{    w    :340        h    :340        resize    :    fit    }        thumb    :{    w    :150        h    :150        resize    :    crop    }        medium    :{    w    :600        h    :600        resize    :    fit    }        large    :{    w    :1024        h    :1024        resize    :    fit    }}        source_status_id    :677288805032853505        source_status_id_str    :    677288805032853505            source_user_id    :4496266527        source_user_id_str    :    4496266527    }]}        favorited    :false        retweeted    :false        possibly_sensitive    :false        filter_level    :    low            lang    :    en            timestamp_ms    :    1450318924770    }'     1    
+    '!            id    :4496266527        id_str    :    4496266527            indices    :[3    19]}]        symbols    :[]        media    :[{    id    :677288791267139584        id_str    :    677288791267139584            indices    :[47    70]        media_url    :    http:\\/\\/pbs.twimg.com\\/media\\/CWY2kTXU4AAKnYK.jpg            media_url_https    :    https:\\/\\/pbs.twimg.com\\/media\\/CWY2kTXU4AAKnYK.jpg            url    :    https:\\/\\/t.co\\/D5Jc2p15wq            display_url    :    pic.twitter.com\\/D5Jc2p15wq            expanded_url    :    http:\\/\\/twitter.com\\/musicaestheticx\\/status\\/677288805032853505\\/photo\\/1            type    :    photo            sizes    :{    small    :{    w    :340        h    :340        resize    :    fit    }        thumb    :{    w    :150        h    :150        resize    :    crop    }        medium    :{    w    :600        h    :600        resize    :    fit    }        large    :{    w    :1024        h    :1024        resize    :    fit    }}        source_status_id    :677288805032853505        source_status_id_str    :    677288805032853505            source_user_id    :4496266527        source_user_id_str    :    4496266527    }]}        extended_entities    :{    media    :[{    id    :677288791267139584        id_str    :    677288791267139584            indices    :[47    70]        media_url    :    http:\\/\\/pbs.twimg.com\\/media\\/CWY2kTXU4AAKnYK.jpg            media_url_https    :    https:\\/\\/pbs.twimg.com\\/media\\/CWY2kTXU4AAKnYK.jpg            url    :    https:\\/\\/t.co\\/D5Jc2p15wq            display_url    :    pic.twitter.com\\/D5Jc2p15wq            expanded_url    :    http:\\/\\/twitter.com\\/musicaestheticx\\/status\\/677288805032853505\\/photo\\/1            type    :    photo            sizes    :{    small    :{    w    :340        h    :340        resize    :    fit    }        thumb    :{    w    :150        h    :150        resize    :    crop    }        medium    :{    w    :600        h    :600        resize    :    fit    }        large    :{    w    :1024        h    :1024        resize    :    fit    }}        source_status_id    :677288805032853505        source_status_id_str    :    677288805032853505            source_user_id    :4496266527        source_user_id_str    :    4496266527    }]}        favorited    :false        retweeted    :false        possibly_sensitive    :false        filter_level    :    low            lang    :    en            timestamp_ms    :    1450319093027    }'     1    
+    '!            id    :4496266527        id_str    :    4496266527            indices    :[3    19]}]        symbols    :[]        media    :[{    id    :677288791267139584        id_str    :    677288791267139584            indices    :[47    70]        media_url    :    http:\\/\\/pbs.twimg.com\\/media\\/CWY2kTXU4AAKnYK.jpg            media_url_https    :    https:\\/\\/pbs.twimg.com\\/media\\/CWY2kTXU4AAKnYK.jpg            url    :    https:\\/\\/t.co\\/D5Jc2p15wq            display_url    :    pic.twitter.com\\/D5Jc2p15wq            expanded_url    :    http:\\/\\/twitter.com\\/musicaestheticx\\/status\\/677288805032853505\\/photo\\/1            type    :    photo            sizes    :{    small    :{    w    :340        h    :340        resize    :    fit    }        thumb    :{    w    :150        h    :150        resize    :    crop    }        medium    :{    w    :600        h    :600        resize    :    fit    }        large    :{    w    :1024        h    :1024        resize    :    fit    }}        source_status_id    :677288805032853505        source_status_id_str    :    677288805032853505            source_user_id    :4496266527        source_user_id_str    :    4496266527    }]}        extended_entities    :{    media    :[{    id    :677288791267139584        id_str    :    677288791267139584            indices    :[47    70]        media_url    :    http:\\/\\/pbs.twimg.com\\/media\\/CWY2kTXU4AAKnYK.jpg            media_url_https    :    https:\\/\\/pbs.twimg.com\\/media\\/CWY2kTXU4AAKnYK.jpg            url    :    https:\\/\\/t.co\\/D5Jc2p15wq            display_url    :    pic.twitter.com\\/D5Jc2p15wq            expanded_url    :    http:\\/\\/twitter.com\\/musicaestheticx\\/status\\/677288805032853505\\/photo\\/1            type    :    photo            sizes    :{    small    :{    w    :340        h    :340        resize    :    fit    }        thumb    :{    w    :150        h    :150        resize    :    crop    }        medium    :{    w    :600        h    :600        resize    :    fit    }        large    :{    w    :1024        h    :1024        resize    :    fit    }}        source_status_id    :677288805032853505        source_status_id_str    :    677288805032853505            source_user_id    :4496266527        source_user_id_str    :    4496266527    }]}        favorited    :false        retweeted    :false        possibly_sensitive    :false        filter_level    :    low            lang    :    en            timestamp_ms    :    1450321049817    }'     1    
+    '!            id    :4496266527        id_str    :    4496266527            indices    :[3    19]}]        symbols    :[]        media    :[{    id    :677288791267139584        id_str    :    677288791267139584            indices    :[47    70]        media_url    :    http:\\/\\/pbs.twimg.com\\/media\\/CWY2kTXU4AAKnYK.jpg            media_url_https    :    https:\\/\\/pbs.twimg.com\\/media\\/CWY2kTXU4AAKnYK.jpg            url    :    https:\\/\\/t.co\\/D5Jc2p15wq            display_url    :    pic.twitter.com\\/D5Jc2p15wq            expanded_url    :    http:\\/\\/twitter.com\\/musicaestheticx\\/status\\/677288805032853505\\/photo\\/1            type    :    photo            sizes    :{    small    :{    w    :340        h    :340        resize    :    fit    }        thumb    :{    w    :150        h    :150        resize    :    crop    }        medium    :{    w    :600        h    :600        resize    :    fit    }        large    :{    w    :1024        h    :1024        resize    :    fit    }}        source_status_id    :677288805032853505        source_status_id_str    :    677288805032853505            source_user_id    :4496266527        source_user_id_str    :    4496266527    }]}        extended_entities    :{    media    :[{    id    :677288791267139584        id_str    :    677288791267139584            indices    :[47    70]        media_url    :    http:\\/\\/pbs.twimg.com\\/media\\/CWY2kTXU4AAKnYK.jpg            media_url_https    :    https:\\/\\/pbs.twimg.com\\/media\\/CWY2kTXU4AAKnYK.jpg            url    :    https:\\/\\/t.co\\/D5Jc2p15wq            display_url    :    pic.twitter.com\\/D5Jc2p15wq            expanded_url    :    http:\\/\\/twitter.com\\/musicaestheticx\\/status\\/677288805032853505\\/photo\\/1            type    :    photo            sizes    :{    small    :{    w    :340        h    :340        resize    :    fit    }        thumb    :{    w    :150        h    :150        resize    :    crop    }        medium    :{    w    :600        h    :600        resize    :    fit    }        large    :{    w    :1024        h    :1024        resize    :    fit    }}        source_status_id    :677288805032853505        source_status_id_str    :    677288805032853505            source_user_id    :4496266527        source_user_id_str    :    4496266527    }]}        favorited    :false        retweeted    :false        possibly_sensitive    :false        filter_level    :    low            lang    :    en            timestamp_ms    :    1450321916986    }'     1    
+    '!            id    :4496266527        id_str    :    4496266527            indices    :[3    19]}]        symbols    :[]        media    :[{    id    :677288791267139584        id_str    :    677288791267139584            indices    :[47    70]        media_url    :    http:\\/\\/pbs.twimg.com\\/media\\/CWY2kTXU4AAKnYK.jpg            media_url_https    :    https:\\/\\/pbs.twimg.com\\/media\\/CWY2kTXU4AAKnYK.jpg            url    :    https:\\/\\/t.co\\/D5Jc2p15wq            display_url    :    pic.twitter.com\\/D5Jc2p15wq            expanded_url    :    http:\\/\\/twitter.com\\/musicaestheticx\\/status\\/677288805032853505\\/photo\\/1            type    :    photo            sizes    :{    small    :{    w    :340        h    :340        resize    :    fit    }        thumb    :{    w    :150        h    :150        resize    :    crop    }        medium    :{    w    :600        h    :600        resize    :    fit    }        large    :{    w    :1024        h    :1024        resize    :    fit    }}        source_status_id    :677288805032853505        source_status_id_str    :    677288805032853505            source_user_id    :4496266527        source_user_id_str    :    4496266527    }]}        extended_entities    :{    media    :[{    id    :677288791267139584        id_str    :    677288791267139584            indices    :[47    70]        media_url    :    http:\\/\\/pbs.twimg.com\\/media\\/CWY2kTXU4AAKnYK.jpg            media_url_https    :    https:\\/\\/pbs.twimg.com\\/media\\/CWY2kTXU4AAKnYK.jpg            url    :    https:\\/\\/t.co\\/D5Jc2p15wq            display_url    :    pic.twitter.com\\/D5Jc2p15wq            expanded_url    :    http:\\/\\/twitter.com\\/musicaestheticx\\/status\\/677288805032853505\\/photo\\/1            type    :    photo            sizes    :{    small    :{    w    :340        h    :340        resize    :    fit    }        thumb    :{    w    :150        h    :150        resize    :    crop    }        medium    :{    w    :600        h    :600        resize    :    fit    }        large    :{    w    :1024        h    :1024        resize    :    fit    }}        source_status_id    :677288805032853505        source_status_id_str    :    677288805032853505            source_user_id    :4496266527        source_user_id_str    :    4496266527    }]}        favorited    :false        retweeted    :false        possibly_sensitive    :false        filter_level    :    low            lang    :    en            timestamp_ms    :    1450324244355    }'     1    
+    '!            protected    :false        verified    :false        followers_count    :1226        friends_count    :28        listed_count    :21        favourites_count    :2        statuses_count    :94673        created_at    :    Sun'     1    
+    '!            protected    :false        verified    :false        followers_count    :327        friends_count    :2008        listed_count    :27        favourites_count    :0        statuses_count    :7776        created_at    :    Tue'     1    
+    '!            protected    :false        verified    :false        followers_count    :4093        friends_count    :196        listed_count    :2        favourites_count    :3068        statuses_count    :6447        created_at    :    Mon'     1    
+    '!            protected    :false        verified    :false        followers_count    :4093        friends_count    :196        listed_count    :2        favourites_count    :3068        statuses_count    :6448        created_at    :    Mon'     6    
+    '!            protected    :false        verified    :false        followers_count    :4094        friends_count    :196        listed_count    :2        favourites_count    :3068        statuses_count    :6448        created_at    :    Mon'     1    
+    '!            protected    :false        verified    :false        followers_count    :4094        friends_count    :196        listed_count    :2        favourites_count    :3068        statuses_count    :6449        created_at    :    Mon'     3    
+    '!            protected    :false        verified    :false        followers_count    :4094        friends_count    :196        listed_count    :2        favourites_count    :3068        statuses_count    :6450        created_at    :    Mon'     5    
+    '!            protected    :false        verified    :false        followers_count    :4095        friends_count    :196        listed_count    :2        favourites_count    :3068        statuses_count    :6450        created_at    :    Mon'     2    
+    '!            protected    :false        verified    :false        followers_count    :4095        friends_count    :196        listed_count    :2        favourites_count    :3069        statuses_count    :6456        created_at    :    Mon'     1    
+    '!            protected    :false        verified    :false        followers_count    :49        friends_count    :164        listed_count    :1        favourites_count    :2569        statuses_count    :3562        created_at    :    Mon'     1    
+    '!            protected    :false        verified    :false        followers_count    :8908        friends_count    :166        listed_count    :22        favourites_count    :11        statuses_count    :13013        created_at    :    Fri'     1    
+    '!            screen_name    :    kolekevyn            location    :    Snap:'     1    
+    '!            screen_name    :    musicaestheticx            location    :null        url    :null        description    :    hi!'     5    
+    '!            source    :        '     1    
+    '!='     1    
+    '!O.M.G!I'     1    
+    '!\\n\\n21'     1    
+    '!\\nalso    '     1    
+    '            id    :2885132031        id_str    :    2885132031            indices    :[3    12]}]        symbols    :[]        media    :[{    id    :676986940915384320        id_str    :    676986940915384320            indices    :[92    115]        media_url    :    http:\\/\\/pbs.twimg.com\\/media\\/CWUkCTLXAAAE-hQ.jpg            media_url_https    :    https:\\/\\/pbs.twimg.com\\/media\\/CWUkCTLXAAAE-hQ.jpg            url    :    https:\\/\\/t.co\\/JJaseJl1aX            display_url    :    pic.twitter.com\\/JJaseJl1aX            expanded_url    :    http:\\/\\/twitter.com\\/PythonRR\\/status\\/676986942748270593\\/photo\\/1            type    :    photo            sizes    :{    thumb    :{    w    :150        h    :150        resize    :    crop    }        small    :{    w    :340        h    :191        resize    :    fit    }        medium    :{    w    :600        h    :337        resize    :    fit    }        large    :{    w    :1024        h    :576        resize    :    fit    }}        source_status_id    :676986942748270593        source_status_id_str    :    676986942748270593            source_user_id    :2885132031        source_user_id_str    :    2885132031    }]}        extended_entities    :{    media    :[{    id    :676986940915384320        id_str    :    676986940915384320            indices    :[92    115]        media_url    :    http:\\/\\/pbs.twimg.com\\/media\\/CWUkCTLXAAAE-hQ.jpg            media_url_https    :    https:\\/\\/pbs.twimg.com\\/media\\/CWUkCTLXAAAE-hQ.jpg            url    :    https:\\/\\/t.co\\/JJaseJl1aX            display_url    :    pic.twitter.com\\/JJaseJl1aX            expanded_url    :    http:\\/\\/twitter.com\\/PythonRR\\/status\\/676986942748270593\\/photo\\/1            type    :    photo            sizes    :{    thumb    :{    w    :150        h    :150        resize    :    crop    }        small    :{    w    :340        h    :191        resize    :    fit    }        medium    :{    w    :600        h    :337        resize    :    fit    }        large    :{    w    :1024        h    :576        resize    :    fit    }}        source_status_id    :676986942748270593        source_status_id_str    :    676986942748270593            source_user_id    :2885132031        source_user_id_str    :    2885132031    }]}        favorited    :false        retweeted    :false        possibly_sensitive    :false        filter_level    :    low            lang    :    en            timestamp_ms    :    1450318184192    }'     1    
+    '            id    :300835864        id_str    :    300835864            indices    :[65    80]}]        symbols    :[]}        favorited    :false        retweeted    :false        filter_level    :    low            lang    :    en            timestamp_ms    :    1450319279092    }'     1    
+    '            id    :59166197        id_str    :    59166197            indices    :[1    12]}    {    screen_name    :    eddiezane            name    :    Eddie'     1    
+    '            id    :80592785        id_str    :    80592785            indices    :[3    17]}]        symbols    :[]}        favorited    :false        retweeted    :false        possibly_sensitive    :false        filter_level    :    low            lang    :    fr            timestamp_ms    :    1450324157437    }'     1    
+    '            id    :929325007        id_str    :    929325007            indices    :[3    19]}    {    screen_name    :    iradiobdg            name    :    iradiofm'     1    
+    '            id    :929325007        id_str    :    929325007            indices    :[3    19]}    {    screen_name    :    ruthsahanaya            name    :    Ruth'     3    
+    '            id    :929325007        id_str    :    929325007            indices    :[8    24]}    {    screen_name    :    ruthsahanaya            name    :    Ruth'     1    
+    '            screen_name    :    AtriaResidences            location    :    Serpong            url    :    http:\\/\\/www.atriaresidencesserpong.com            description    :    An'     4    
+    '            screen_name    :    BLjujkovic            location    :    Queens    '     1    
+    '            screen_name    :    PythonRR            location    :null        url    :    http:\\/\\/bit.ly\\/1uLmkxZ            description    :    Live'     3    
+    '            screen_name    :    Stage_Finance            location    :null        url    :    http:\\/\\/www.linkedin.com\\/in\\/MathsFi            description    :    http:\\/\\/t.co\\/UrLsbtU3oA'     5    
+    '            screen_name    :    anguebus            location    :    Madrid            url    :    http:\\/\\/www.lagacetasideral.com            description    :    Ciencia'     1    
+    '            screen_name    :    jobsearchlondon            location    :    London            url    :    http:\\/\\/www.london-jobsearch.co.uk\\/            description    :    Find'     1    
+    '            screen_name    :    kalanamith            location    :    Kandy            url    :    http:\\/\\/lk.linkedin.com\\/pub\\/kalanamith\\/20\\/167\\/387\\/            description    :    \\/'     1    
+    '            screen_name    :    msmasclass            location    :null        url    :null        description    :    Grade'     1    
+    '            screen_name    :    stocknotifier            location    :null        url    :null        description    :    @StockNotifier'     1    
+    '            url    :    http:\\/\\/Instagram.com\\/raezc_\\/            description    :    Looking'     1    
+    '            url    :    http:\\/\\/about.me\\/cybernaut            description    :    Piratess.'     1    
+    '            url    :    http:\\/\\/about.me\\/javascriptcheerleader            description    :    #JavaScript'     7    
+    '            url    :    http:\\/\\/act.alz.org\\/site\\/TR?fr_id=7749&pg=entry            description    :null        protected    :false        verified    :false        followers_count    :537        friends_count    :698        listed_count    :1        favourites_count    :3826        statuses_count    :4837        created_at    :    Thu'     1    
+    '            url    :    http:\\/\\/adelseo.com.au            description    :    We\'re'     1    
+    '            url    :    http:\\/\\/allthethings.nz            description    :    allthethings.nz            protected    :false        verified    :false        followers_count    :5019        friends_count    :1951        listed_count    :317        favourites_count    :14652        statuses_count    :84512        created_at    :    Sun'     1    
+    '            url    :    http:\\/\\/csnipp.com            description    :    Never'     1    
+    '            url    :    http:\\/\\/example.com            description    :    Systems'     1    
+    '            url    :    http:\\/\\/favstar.fm\\/users\\/JoannaLL            description    :    Mom    '     1    
+    '            url    :    http:\\/\\/feelto-love.tumblr.com            description    :    gasto'     1    
+    '            url    :    http:\\/\\/fuckthisiwanttobeabanana.blogspot.co.uk\\/            description    :    *i'     1    
+    '            url    :    http:\\/\\/goo.gl\\/hUqcD            description    :    \\u30de\\u30b8\\u30ab\\u30eb\\u30d1\\u30ef\\u30fc\\u30de\\u30b3\\u2606\\u5b87\\u5b99\\u97f3\\u697d\\u5bb6\\u3000\\u3000\\u3000soundcloud\\u3000http:\\/\\/goo.gl\\/aems4\\u3000\\u3000\\u3000'     1    
+    '            url    :    http:\\/\\/infoslamet.com            description    :    Berbagi'     2    
+    '            url    :    http:\\/\\/instagram.com\\/dudanmoreira            description    :    traz'     1    
+    '            url    :    http:\\/\\/instagram.com\\/mykali            description    :    Online'     3    
+    '            url    :    http:\\/\\/m4ke-me-h4ppy.tumblr.com            description    :    im'     1    
+    '            url    :    http:\\/\\/not-so-graceful-grace.tumblr.com            description    :    you\'re'     1    
+    '            url    :    http:\\/\\/onelessonlygirl.tumblr.com            description    :    \\u2206'     1    
+    '            url    :    http:\\/\\/reighven.blogspot.com\\/            description    :    LittleMiss'     1    
+    '            url    :    http:\\/\\/rrice69.tumblr.com            description    :    52'     1    
+    '            url    :    http:\\/\\/rubysointricate.blogspot.com            description    :    had'     1    
+    '            url    :    http:\\/\\/seclist.us\\/            description    :    PGP'     3    
+    '            url    :    http:\\/\\/sharedesignsupscalevintage.webs.com\\/            description    :    I'     1    
+    '            url    :    http:\\/\\/smithjulia.vsco.co            description    :    what'     1    
+    '            url    :    http:\\/\\/stankonia777.tumblr.com\\/            description    :    Num'     4    
+    '            url    :    http:\\/\\/themidnightsun-blog.tumblr.com            description    :    se'     1    
+    '            url    :    http:\\/\\/this-whatever.tumblr.com\\/            description    :    Nothing'     1    
+    '            url    :    http:\\/\\/transhack.org            description    :    Creating'     1    
+    '            url    :    http:\\/\\/troye.si\\/vanSupport            description    :    a'     1    
+    '            url    :    http:\\/\\/viajar-te.tumblr.com            description    :    s\\u00f3'     1    
+    '            url    :    http:\\/\\/withanastyscars.tumblr.com            description    :    i'     3    
+    '            url    :    http:\\/\\/www.amazon.com\\/Gabi-Tree\\/e\\/B016SIXZMC            description    :    Sociology'     1    
+    '            url    :    http:\\/\\/www.busofbooks.com            description    :    Colin'     1    
+    '            url    :    http:\\/\\/www.cesarnogueira.me            description    :    Software'     4    
+    '            url    :    http:\\/\\/www.glamsquad2you.com            description    :    Your'     1    
+    '            url    :    http:\\/\\/www.kelltontech.com            description    :    We'     1    
+    '            url    :    http:\\/\\/www.madewithcode.com            description    :    Things'     2    
+    '            url    :    http:\\/\\/www.tamimisoft.com            description    :    \\u0644\\u0644\\u0628\\u0631\\u0627\\u0645\\u062c'     1    
+    '            url    :    http:\\/\\/www.telerik.com            description    :    More'     1    
+    '            url    :    http:\\/\\/yojik.hatenablog.jp\\/            description    :    \\u30d7\\u30ed\\u30b0\\u30e9\\u30de\\u3067\\u3059\\u3002\\u30ec\\u30da\\u30bc\\u30f3OO\\u53a8!!            protected    :false        verified    :false        followers_count    :818        friends_count    :801        listed_count    :46        favourites_count    :2264        statuses_count    :18893        created_at    :    Sat'     1    
+    '            url    :    https:\\/\\/instagram.com\\/1individua6\\/            description    :    \\u2022DIOS    '     2    
+    '            url    :    https:\\/\\/instagram.com\\/helen_turchiello\\/            description    :    arlequina'     1    
+    '            url    :    https:\\/\\/instagram.com\\/shannacrossa\\/            description    :    18'     1    
+    '            url    :    https:\\/\\/m.soundcloud.com\\/bicflickerceph\\/ceph-void            description    :    Jamal            protected    :false        verified    :false        followers_count    :1305        friends_count    :1004        listed_count    :23        favourites_count    :639        statuses_count    :67062        created_at    :    Fri'     1    
+    '            url    :    https:\\/\\/plus.google.com\\/+DeviKinalPutri\\/            description    :    C\'mon'     1    
+    '            url    :    https:\\/\\/twitter.com\\/Harry_Styles\\/status\\/384267513388744705            description    :    they'     1    
+    '            url    :    https:\\/\\/vine.co\\/v\\/MjZD1dEhpr2            description    :    I'     1    
+    '            url    :    https:\\/\\/www.facebook.com\\/linuxtechnologytidbits            description    :    Linux'     5    
+    '            url    :    https:\\/\\/www.goodreads.com\\/user\\/show\\/8429172-laura-marcela            description    :    I'     1    
+    '            url    :    https:\\/\\/www.pinterest.com\\/faraangel\\/            description    :    \\u25ab\\u25aa\\u25ab\\u25aa\\u25ab\\u25aa\\ni'     1    
+    '            url    :    https:\\/\\/www.youtube.com\\/channel\\/UCqi54ENGkA4IrFW8Of4gBOA            description    :    |'     1    
+    '            url    :    https:\\/\\/www.youtube.com\\/user\\/4n631ic0b1ivi0n            description    :    I\'m'     2    
+    '            url    :    https:\\/\\/youtu.be\\/BInXw9przzM            description    :    hey'     1    
+    '            url    :null        description    :    #IAMDJTEDDI'     1    
+    '            url    :null        description    :    #Malware'     3    
+    '            url    :null        description    :    16'     2    
+    '            url    :null        description    :    17.'     2    
+    '            url    :null        description    :    22'     2    
+    '            url    :null        description    :    Am'     1    
+    '            url    :null        description    :    Amateur'     1    
+    '            url    :null        description    :    Complacency'     1    
+    '            url    :null        description    :    Eu'     2    
+    '            url    :null        description    :    Farmer'     1    
+    '            url    :null        description    :    GQ'     1    
+    '            url    :null        description    :    Good'     1    
+    '            url    :null        description    :    Have'     1    
+    '            url    :null        description    :    Hello!'     8    
+    '            url    :null        description    :    I'     1    
+    '            url    :null        description    :    Im'     1    
+    '            url    :null        description    :    Javascript'     32    
+    '            url    :null        description    :    Looks'     1    
+    '            url    :null        description    :    Love'     1    
+    '            url    :null        description    :    MPrep'     2    
+    '            url    :null        description    :    Married\\/Food&Wine\\/Fashion\\/F1\\/Hockey.'     1    
+    '            url    :null        description    :    Naaaaah            protected    :false        verified    :false        followers_count    :1521        friends_count    :838        listed_count    :29        favourites_count    :8786        statuses_count    :183816        created_at    :    Sat'     1    
+    '            url    :null        description    :    Naaaaah            protected    :false        verified    :false        followers_count    :1521        friends_count    :838        listed_count    :29        favourites_count    :8786        statuses_count    :183817        created_at    :    Sat'     1    
+    '            url    :null        description    :    Naaaaah            protected    :false        verified    :false        followers_count    :1521        friends_count    :838        listed_count    :29        favourites_count    :8786        statuses_count    :183818        created_at    :    Sat'     1    
+    '            url    :null        description    :    Naaaaah            protected    :false        verified    :false        followers_count    :1521        friends_count    :838        listed_count    :29        favourites_count    :8786        statuses_count    :183819        created_at    :    Sat'     1    
+    '            url    :null        description    :    Naaaaah            protected    :false        verified    :false        followers_count    :1521        friends_count    :838        listed_count    :29        favourites_count    :8786        statuses_count    :183820        created_at    :    Sat'     1    
+    '            url    :null        description    :    Ok'     1    
+    '            url    :null        description    :    Over'     1    
+    '            url    :null        description    :    R.H'     1    
+    '            url    :null        description    :    SElENATOR'     2    
+    '            url    :null        description    :    The'     2    
+    '            url    :null        description    :    This'     2    
+    '            url    :null        description    :    To'     1    
+    '            url    :null        description    :    Ultimate'     1    
+    '            url    :null        description    :    Wallflower.            protected    :false        verified    :false        followers_count    :322        friends_count    :727        listed_count    :1        favourites_count    :2065        statuses_count    :6002        created_at    :    Thu'     1    
+    '            url    :null        description    :    Why'     1    
+    '            url    :null        description    :    YGWINNER_TH'     1    
+    '            url    :null        description    :    \\/\\u53cd\\u52d5\\u7269\\u8650\\u5f85\\/\\u53cd\\u8ecd\\u7523\\u8907\\u5408\\u4f53\\/\\u53cdNWO\\/\\u4eca\\u306e\\u793e\\u4f1a\\u306b\\u72c2\\u6c17\\u3092\\u611f\\u3058\\u305a\\u306b\\u306f\\u3044\\u3089\\u308c\\u306a\\u3044'     1    
+    '            url    :null        description    :    \\u007bAllah\\u007d'     1    
+    '            url    :null        description    :    \\u30a2\\u30a4\\u30b3\\u30f3\\u3001\\u30d8\\u30c3\\u30c0\\u30fc\\u306f\\u771f\\u6597\\u3055\\u3093\\u3002\\u30aa\\u30ea\\u30b8\\u30ca\\u30eb\\u697d\\u66f2\\u6295\\u7a3f\\u3057\\u3066\\u307e\\u3059\\u3002\\u81ea\\u4f5c\\u66f2:http:\\/\\/www.nicovideo.jp\\/mylist\\/44807744'     1    
+    '            url    :null        description    :    \\ud2b8\\uc640\\uc774\\uc2a4'     2    
+    '            url    :null        description    :    amo'     2    
+    '            url    :null        description    :    decifra-me'     2    
+    '            url    :null        description    :    enjoys'     2    
+    '            url    :null        description    :    n\\u00e3o'     1    
+    '            url    :null        description    :    num'     1    
+    '            url    :null        description    :    student'     1    
+    '            url    :null        description    :null        protected    :false        verified    :false        followers_count    :11        friends_count    :12        listed_count    :0        favourites_count    :211        statuses_count    :1059        created_at    :    Mon'     2    
+    '            url    :null        description    :null        protected    :false        verified    :false        followers_count    :3116        friends_count    :2147        listed_count    :2        favourites_count    :11607        statuses_count    :20171        created_at    :    Tue'     1    
+    '            url    :null        description    :null        protected    :false        verified    :false        followers_count    :3116        friends_count    :2147        listed_count    :2        favourites_count    :11607        statuses_count    :20172        created_at    :    Tue'     1    
+    '            url    :null        description    :null        protected    :false        verified    :false        followers_count    :62        friends_count    :297        listed_count    :1        favourites_count    :48        statuses_count    :67        created_at    :    Tue'     1    
+    '            url    :null        description    :null        protected    :false        verified    :false        followers_count    :794        friends_count    :593        listed_count    :3        favourites_count    :10227        statuses_count    :8149        created_at    :    Wed'     1    
+    '#'     4    
+    '#            source    :        '     2    
+    '##kokosei            source    :        '     1    
+    '#    Senior    '     2    
+    '#    UnspecifiedCity    '     2    
+    '#-'     1    
+    '#-trainer    weekend    -vmware'     1    
+    '#0039'     1    
+    '#0071'     1    
+    '#01            screen_name    :    AbigailAN16            location    :    Santa'     1    
+    '#01312'     2    
+    '#013\\ninsta:'     1    
+    '#03'     4    
+    '#0412'     1    
+    '#0455'     1    
+    '#0575'     1    
+    '#0738'     1    
+    '#0799'     1    
+    '#08'     3    
+    '#0925'     1    
+    '#0943'     1    
+    '#0946'     1    
+    '#1'     8    
+    '#1            screen_name    :    _Cadore_            location    :null        url    :null        description    :    oh'     1    
+    '#1            screen_name    :    adequatelyallie            location    :    the'     1    
+    '#1            source    :        '     2    
+    '#1.'     1    
+    '#10\\/4            protected    :false        verified    :false        followers_count    :22        friends_count    :102        listed_count    :0        favourites_count    :70        statuses_count    :174        created_at    :    Tue'     1    
+    '#1116            protected    :false        verified    :false        followers_count    :16128        friends_count    :399        listed_count    :530        favourites_count    :27        statuses_count    :16381        created_at    :    Fri'     1    
+    '#1116            protected    :false        verified    :false        followers_count    :16129        friends_count    :399        listed_count    :530        favourites_count    :27        statuses_count    :16382        created_at    :    Fri'     4    
+    '#1174            protected    :false        verified    :false        followers_count    :113        friends_count    :270        listed_count    :6        favourites_count    :1949        statuses_count    :7213        created_at    :    Mon'     1    
+    '#11816:'     1    
+    '#1198'     1    
+    '#1200'     1    
+    '#13'     1    
+    '#1326'     1    
+    '#14'     2    
+    '#15            source    :        '     1    
+    '#16            screen_name    :    brtanang            location    :null        url    :null        description    :null        protected    :false        verified    :false        followers_count    :21        friends_count    :68        listed_count    :0        favourites_count    :11        statuses_count    :391        created_at    :    Tue'     1    
+    '#16            source    :        '     1    
+    '#1693'     1    
+    '#17            source    :        '     1    
+    '#18'     1    
+    '#1877'     1    
+    '#1stgrade'     1    
+    '#2.'     1    
+    '#2.\\nProgramming'     1    
+    '#2070'     1    
+    '#2119999\\/#466727609'     1    
+    '#2177'     1    
+    '#219'     3    
+    '#2251'     1    
+    '#2307'     1    
+    '#235'     1    
+    '#24'     1    
+    '#2428'     1    
+    '#245'     1    
+    '#2469'     1    
+    '#2475'     1    
+    '#24daysoftea'     1    
+    '#2558'     1    
+    '#2578'     1    
+    '#25daysofnode!'     4    
+    '#2860'     1    
+    '#2882'     1    
+    '#2896'     1    
+    '#2906'     1    
+    '#2941'     1    
+    '#3034'     1    
+    '#3079'     1    
+    '#3094'     1    
+    '#3192'     1    
+    '#32'     1    
+    '#3229'     1    
+    '#3292'     1    
+    '#3324'     1    
+    '#3479'     1    
+    '#3792'     1    
+    '#3825'     1    
+    '#3831'     1    
+    '#3885'     1    
+    '#3931'     1    
+    '#395'     6    
+    '#397\\/399'     1    
+    '#3:'     1    
+    '#3DPrinting'     4    
+    '#3d'     2    
+    '#3dprinting'     1    
+    '#4035'     1    
+    '#4079'     1    
+    '#40ThreeThirty3:'     1    
+    '#4283'     1    
+    '#430            url    :    http:\\/\\/www.grupocodesi.com            description    :    Grupo'     1    
+    '#432'     2    
+    '#4609'     1    
+    '#4649'     1    
+    '#4653'     1    
+    '#47'     2    
+    '#4709'     1    
+    '#4831'     1    
+    '#4894'     1    
+    '#48Hrs'     1    
+    '#4922'     1    
+    '#4\\u003c\\/a\\u003e            truncated    :false        in_reply_to_status_id    :null        in_reply_to_status_id_str    :null        in_reply_to_user_id    :null        in_reply_to_user_id_str    :null        in_reply_to_screen_name    :null        user    :{    id    :254085913        id_str    :    254085913            name    :    Ryan'     1    
+    '#4thchat'     2    
+    '#500K'     12    
+    '#5213'     1    
+    '#5314'     1    
+    '#5390'     1    
+    '#5446'     1    
+    '#5510'     1    
+    '#5586'     1    
+    '#56345'     2    
+    '#5776'     1    
+    '#5851'     1    
+    '#5H2!            screen_name    :    CANBEMINELAUREN            location    :    '     1    
+    '#5H2            screen_name    :    alefiveH            location    :    Curitiba            url    :    http:\\/\\/changemysee.tumblr.com\\/            description    :    Love'     1    
+    '#5th'     4    
+    '#61'     2    
+    '#6121'     1    
+    '#6139'     1    
+    '#6194'     3    
+    '#6403'     1    
+    '#6427'     1    
+    '#6431'     1    
+    '#6479'     1    
+    '#6837'     1    
+    '#6th'     2    
+    '#7096'     1    
+    '#7136'     1    
+    '#7142'     2    
+    '#716'     2    
+    '#7194'     1    
+    '#7362'     1    
+    '#7535'     1    
+    '#77714'     1    
+    '#7782'     1    
+    '#7811'     1    
+    '#8088'     1    
+    '#8106'     1    
+    '#8125'     1    
+    '#8209'     1    
+    '#8213'     1    
+    '#8263'     1    
+    '#8408'     1    
+    '#8701'     1    
+    '#8708'     1    
+    '#8783'     1    
+    '#8948'     1    
+    '#9013'     1    
+    '#9071'     1    
+    '#90sRap'     1    
+    '#9258'     1    
+    '#9430'     1    
+    '#94753'     2    
+    '#9664'     1    
+    '#9674'     1    
+    '#9931'     1    
+    '#9946'     1    
+    '#9949'     1    
+    '#9955'     1    
+    '#9News'     5    
+    '#9WX    '     1    
+    '#9\\u676f'     1    
+    '#:'     11    
+    '#:    '     1    
+    '#ABIS_BOOK'     7    
+    '#AFE15'     4    
+    '#ALDUB22ndWeeksary'     35    
+    '#APCSRocks'     1    
+    '#API'     1    
+    '#API\\nhttps:\\/\\/t.co\\/1hJIXM82Lq\\n---\\n#programming'     2    
+    '#API\\nhttps:\\/\\/t.co\\/ClC2GZX6r3\\n---\\n#programming'     2    
+    '#API\\nhttps:\\/\\/t.co\\/iWAldbIUUy\\n---\\n#programming'     5    
+    '#API\\nhttps:\\/\\/t.co\\/jyyha5TTEO\\n---\\n#programming'     1    
+    '#API\\nhttps:\\/\\/t.co\\/lHs4j3jaKX\\n---\\n#programming'     7    
+    '#API\\nhttps:\\/\\/t.co\\/qvnoTyLOnY\\n---\\n#programming'     1    
+    '#ART'     1    
+    '#ASMSG            protected    :false        verified    :false        followers_count    :57349        friends_count    :53250        listed_count    :1529        favourites_count    :25206        statuses_count    :297327        created_at    :    Sat'     1    
+    '#ASMSG            protected    :false        verified    :false        followers_count    :57351        friends_count    :53250        listed_count    :1529        favourites_count    :25206        statuses_count    :297336        created_at    :    Sat'     1    
+    '#ASP'     3    
+    '#Academia'     1    
+    '#Acara\\u2122'     1    
+    '#Accessories&amp;gt;Shoes'     1    
+    '#Afghans'     1    
+    '#Africa.'     1    
+    '#Albion'     1    
+    '#Algeria'     1    
+    '#AlwaysKeepFighting'     1    
+    '#AlwaysKeepFighting            protected    :false        verified    :false        followers_count    :968        friends_count    :807        listed_count    :13        favourites_count    :10152        statuses_count    :11075        created_at    :    Sat'     1    
+    '#AlwaysKeepFighting            protected    :false        verified    :false        followers_count    :968        friends_count    :807        listed_count    :13        favourites_count    :10154        statuses_count    :11077        created_at    :    Sat'     1    
+    '#AlwaysKeepFighting            protected    :false        verified    :false        followers_count    :968        friends_count    :807        listed_count    :13        favourites_count    :10156        statuses_count    :11079        created_at    :    Sat'     1    
+    '#AlwaysKeepFighting            protected    :false        verified    :false        followers_count    :969        friends_count    :807        listed_count    :13        favourites_count    :10152        statuses_count    :11075        created_at    :    Sat'     1    
+    '#AlwaysKeepFighting            protected    :false        verified    :false        followers_count    :969        friends_count    :807        listed_count    :13        favourites_count    :10156        statuses_count    :11079        created_at    :    Sat'     1    
+    '#Analyst'     1    
+    '#Analytics'     1    
+    '#Analytics            protected    :false        verified    :false        followers_count    :222        friends_count    :99        listed_count    :101        favourites_count    :4        statuses_count    :30975        created_at    :    Wed'     1    
+    '#Analytics            protected    :false        verified    :false        followers_count    :364        friends_count    :404        listed_count    :88        favourites_count    :54        statuses_count    :520        created_at    :    Sun'     1    
+    '#Analytics    '     2    
+    '#Android'     4    
+    '#Android            source    :        '     2    
+    '#Android    '     4    
+    '#Android\\n\\nSend'     2    
+    '#Android\\nhttps:\\/\\/t.co\\/8cB901xrh9\\n---\\n#programming'     1    
+    '#Androidgames'     1    
+    '#Angular'     8    
+    '#Angular.JS    '     4    
+    '#AngularJS'     35    
+    '#AngularJS.'     2    
+    '#Angularjs'     2    
+    '#Antony'     1    
+    '#ApTask.'     15    
+    '#Appcelerator'     2    
+    '#Apps'     3    
+    '#Aquarists'     1    
+    '#ArcGIS'     3    
+    '#Arizona'     3    
+    '#Art'     1    
+    '#ArtDeco'     1    
+    '#Askvaruntej            source    :        '     1    
+    '#Auction'     5    
+    '#Auctions'     1    
+    '#Austin'     1    
+    '#AutismAwareness            protected    :false        verified    :false        followers_count    :18428        friends_count    :19956        listed_count    :1317        favourites_count    :12152        statuses_count    :215591        created_at    :    Wed'     1    
+    '#Auto'     2    
+    '#AutoCars'     2    
+    '#AutoFallowBack            protected    :false        verified    :false        followers_count    :4879        friends_count    :4375        listed_count    :146        favourites_count    :0        statuses_count    :297972        created_at    :    Fri'     1    
+    '#Automation'     1    
+    '#Automobile'     8    
+    '#Automotive'     4    
+    '#AyoKeluargaDepi'     1    
+    '#AyoKerjaIndonesia            source    :        '     1    
+    '#B2B'     1    
+    '#BI.            protected    :false        verified    :false        followers_count    :338        friends_count    :489        listed_count    :54        favourites_count    :9        statuses_count    :411        created_at    :    Sat'     1    
+    '#BLACKLIVESMATTER            protected    :false        verified    :false        followers_count    :1176        friends_count    :1048        listed_count    :63        favourites_count    :36772        statuses_count    :104697        created_at    :    Thu'     1    
+    '#BLSUy'     1    
+    '#BMI            protected    :false        verified    :false        followers_count    :12107        friends_count    :13319        listed_count    :1063        favourites_count    :137393        statuses_count    :157426        created_at    :    Thu'     1    
+    '#BRA.'     1    
+    '#BabyBlankets'     1    
+    '#Backpacking'     3    
+    '#BacktotheBeginning'     18    
+    '#Bacon'     1    
+    '#Bag'     3    
+    '#Bailey'     1    
+    '#Bakeware'     1    
+    '#Baking'     1    
+    '#Barcelona'     1    
+    '#Barcelona.'     1    
+    '#Bargain'     1    
+    '#Bargains'     8    
+    '#Bargains            source    :        '     1    
+    '#BasHURAHAN!'     1    
+    '#BasketBall'     1    
+    '#Batch12            protected    :false        verified    :false        followers_count    :376        friends_count    :385        listed_count    :299        favourites_count    :501        statuses_count    :15222        created_at    :    Thu'     1    
+    '#BeOn9    '     1    
+    '#BeTech'     2    
+    '#BeTech.            protected    :false        verified    :false        followers_count    :3239        friends_count    :1449        listed_count    :1361        favourites_count    :17841        statuses_count    :25035        created_at    :    Sun'     1    
+    '#Berlin            source    :        '     5    
+    '#Bernie2016            protected    :false        verified    :false        followers_count    :630        friends_count    :514        listed_count    :2        favourites_count    :5347        statuses_count    :16916        created_at    :    Tue'     1    
+    '#Bestseller'     3    
+    '#Beverages            source    :        '     1    
+    '#BeyHive            protected    :false        verified    :false        followers_count    :415        friends_count    :56        listed_count    :1        favourites_count    :2596        statuses_count    :1610        created_at    :    Thu'     1    
+    '#BeyHive            protected    :false        verified    :false        followers_count    :415        friends_count    :56        listed_count    :1        favourites_count    :2597        statuses_count    :1610        created_at    :    Thu'     1    
+    '#BeyHive            protected    :false        verified    :false        followers_count    :415        friends_count    :56        listed_count    :1        favourites_count    :2597        statuses_count    :1611        created_at    :    Thu'     1    
+    '#Big'     1    
+    '#BigDat\\u2026            source    :        '     1    
+    '#BigData'     17    
+    '#BigData            protected    :false        verified    :false        followers_count    :18842        friends_count    :91        listed_count    :865        favourites_count    :894        statuses_count    :17468        created_at    :    Fri'     1    
+    '#BigData    '     2    
+    '#Bigdata'     2    
+    '#BioVision'     1    
+    '#BlackLabelSociety            protected    :false        verified    :false        followers_count    :71        friends_count    :130        listed_count    :3        favourites_count    :72        statuses_count    :188        created_at    :    Wed'     1    
+    '#BlackLivesMatter'     3    
+    '#BlackOps3'     3    
+    '#Blackish            source    :        '     1    
+    '#Blade'     3    
+    '#Blogger'     2    
+    '#Blogger    '     3    
+    '#Boats'     1    
+    '#Bootstrap'     6    
+    '#Bootstrap    '     10    
+    '#Boston'     3    
+    '#Bracelet'     2    
+    '#Bracelets'     64    
+    '#Bristol'     1    
+    '#Bristol            source    :        '     1    
+    '#Bromo'     1    
+    '#Brooch'     1    
+    '#BumbleBee'     1    
+    '#Business'     2    
+    '#Buy'     5    
+    '#BuyNow'     2    
+    '#Buzz'     3    
+    '#C            source    :        '     2    
+    '#C#'     1    
+    '#C#            protected    :false        verified    :false        followers_count    :745        friends_count    :304        listed_count    :5        favourites_count    :188        statuses_count    :183        created_at    :    Fri'     2    
+    '#C#            source    :        '     2    
+    '#C++'     3    
+    '#C++            source    :        '     2    
+    '#C89'     2    
+    '#CA-Long'     1    
+    '#CA-San'     5    
+    '#CA.'     1    
+    '#CCG'     3    
+    '#CDI'     2    
+    '#CLI'     1    
+    '#CNDH            source    :        '     1    
+    '#COlt'     8    
+    '#CR7'     2    
+    '#CSEAP2            source    :        '     2    
+    '#CSGO'     3    
+    '#CSGOgiveaway'     134    
+    '#CSS'     37    
+    '#CSS    '     6    
+    '#CSS3'     58    
+    '#CSS3            protected    :false        verified    :false        followers_count    :355        friends_count    :154        listed_count    :48        favourites_count    :1        statuses_count    :481        created_at    :    Wed'     3    
+    '#CSS3    '     1    
+    '#CSharp'     3    
+    '#CSharp            source    :        '     3    
+    '#CU16            protected    :false        verified    :false        followers_count    :483        friends_count    :482        listed_count    :1        favourites_count    :2563        statuses_count    :24744        created_at    :    Sat'     1    
+    '#CULax'     1    
+    '#CaboPress.'     1    
+    '#Camry'     1    
+    '#Canadiens'     1    
+    '#CancerSurvivor'     1    
+    '#Capitals'     2    
+    '#Car'     3    
+    '#CarDealer'     2    
+    '#CarDealers'     2    
+    '#CarDealers            source    :        '     1    
+    '#CarForSale'     3    
+    '#Card'     2    
+    '#Cards'     1    
+    '#Career'     3    
+    '#CareerArc'     1    
+    '#CareerArc            source    :        '     1    
+    '#Carlsbad    '     1    
+    '#Cars'     4    
+    '#Celeb'     2    
+    '#Celebrity'     2    
+    '#CertifiedSOAJavaDeveloper'     1    
+    '#Charleston'     2    
+    '#Cheap'     1    
+    '#Cheap            source    :        '     3    
+    '#Chef            protected    :false        verified    :false        followers_count    :4297        friends_count    :4127        listed_count    :220        favourites_count    :0        statuses_count    :67782        created_at    :    Sun'     1    
+    '#Chicago'     1    
+    '#China'     1    
+    '#ChiviTheBanditSlayer'     1    
+    '#Christmas'     5    
+    '#ChristmasSale'     1    
+    '#Christmasmani'     1    
+    '#CiudaddeBuenosAires'     1    
+    '#Civic'     2    
+    '#ClaremontMckenna'     7    
+    '#Cleared'     1    
+    '#Clothing'     2    
+    '#Cloud'     1    
+    '#Cloud        '     1    
+    '#Cloud    '     3    
+    '#Co-ordinator'     1    
+    '#CodeNewbie'     14    
+    '#CodeNewbie            source    :        '     5    
+    '#CodebeforeHoes            source    :        '     1    
+    '#Coding'     1    
+    '#CoffeeMugCozy'     1    
+    '#Cognition'     5    
+    '#Colar'     1    
+    '#Colchester    '     1    
+    '#Collectibles'     1    
+    '#Colombia.'     2    
+    '#Comics'     3    
+    '#Composible'     2    
+    '#Computer'     1    
+    '#ComputerSci            protected    :false        verified    :false        followers_count    :649        friends_count    :383        listed_count    :19        favourites_count    :11483        statuses_count    :17886        created_at    :    Fri'     1    
+    '#Concours'     3    
+    '#Conocimiento!'     10    
+    '#Conshohocken    '     1    
+    '#Constitution            protected    :false        verified    :false        followers_count    :2334        friends_count    :2538        listed_count    :1269        favourites_count    :523        statuses_count    :328443        created_at    :    Sat'     1    
+    '#ContinuousDelivery    '     2    
+    '#Cooking'     1    
+    '#Cookware'     1    
+    '#Coru\\u00f1a            source    :        '     1    
+    '#CostaMesa'     1    
+    '#Coupon'     2    
+    '#CourseCoupon'     1    
+    '#Crochet'     1    
+    '#CruzCrew'     2    
+    '#CruzCrew!!            screen_name    :    SnittyFitz            location    :    Miami    '     1    
+    '#CrystalHealing'     2    
+    '#Csharp'     5    
+    '#Csharp            source    :        '     3    
+    '#Css'     5    
+    '#Cybersecurity'     1    
+    '#DAI'     1    
+    '#DAO'     1    
+    '#DCTech            protected    :false        verified    :false        followers_count    :3472        friends_count    :519        listed_count    :254        favourites_count    :368        statuses_count    :4703        created_at    :    Sat'     1    
+    '#DESENVOLVEDOR'     1    
+    '#DRUMMER'     1    
+    '#DV'     1    
+    '#D\\u00e9veloppeur'     1    
+    '#DailyDeal            screen_name    :    alldailydealsuk            location    :    London    '     24    
+    '#Data'     7    
+    '#Data    '     1    
+    '#DataDC'     1    
+    '#DataMining    '     1    
+    '#DataScience'     14    
+    '#DataV...'     1    
+    '#DeRodillasYEnElPiso'     5    
+    '#Deal'     2    
+    '#Deal            protected    :false        verified    :false        followers_count    :259        friends_count    :141        listed_count    :102        favourites_count    :0        statuses_count    :60095        created_at    :    Sat'     1    
+    '#Deal            source    :        '     1    
+    '#Deals'     10    
+    '#Deals_UK'     24    
+    '#Deanisveryprecioustoo'     1    
+    '#December'     3    
+    '#Decor'     1    
+    '#DelhiNCR'     1    
+    '#Deluxe'     1    
+    '#DemonScribblers            url    :    http:\\/\\/thydemonsbescribblin.com            description    :    Scribbling'     1    
+    '#Denver'     3    
+    '#Desarrolladores'     1    
+    '#Design'     1    
+    '#DestroyNATO'     1    
+    '#Detroit.            protected    :false        verified    :false        followers_count    :9142        friends_count    :2518        listed_count    :560        favourites_count    :1445        statuses_count    :57470        created_at    :    Sun'     1    
+    '#Dev'     6    
+    '#DevOps'     5    
+    '#DevOps    '     2    
+    '#DevPro            source    :        '     1    
+    '#Developer'     18    
+    '#Developer            source    :        '     2    
+    '#Developer    '     4    
+    '#Developer.'     2    
+    '#Development'     1    
+    '#Di'     1    
+    '#Diamond'     1    
+    '#DiamondRing'     1    
+    '#Diaper'     3    
+    '#DiaperBag'     1    
+    '#Discount'     5    
+    '#Dise\\u00f1ador'     1    
+    '#Disneyland            source    :        '     1    
+    '#Django'     1    
+    '#Django            source    :        '     2    
+    '#Docker'     6    
+    '#Docker:'     2    
+    '#Dogs            protected    :false        verified    :false        followers_count    :92        friends_count    :45        listed_count    :12        favourites_count    :0        statuses_count    :12433        created_at    :    Wed'     1    
+    '#Donaghmede'     2    
+    '#DragBike'     2    
+    '#DragRace'     2    
+    '#Drupal'     2    
+    '#Dublin'     1    
+    '#Dublin    '     1    
+    '#DuoCode'     2    
+    '#Dynamics'     2    
+    '#EC2\\n\\ncgcloud-spark-tools'     1    
+    '#EDC'     1    
+    '#EDM'     1    
+    '#EE'     1    
+    '#EMPLEO            source    :        '     2    
+    '#ENTERTAIMENT'     1    
+    '#EPL'     1    
+    '#ERP-#BPM'     1    
+    '#ES6'     2    
+    '#EURO2016            protected    :false        verified    :false        followers_count    :475        friends_count    :569        listed_count    :264        favourites_count    :28        statuses_count    :21008        created_at    :    Mon'     1    
+    '#Earrings'     66    
+    '#EastLansingToxicroaks            protected    :false        verified    :false        followers_count    :1044        friends_count    :840        listed_count    :1        favourites_count    :5536        statuses_count    :16862        created_at    :    Sun'     1    
+    '#Eating'     1    
+    '#Ebay'     26    
+    '#EddieCrossTheBorder'     1    
+    '#Egyptian'     2    
+    '#EidMubarak'     2    
+    '#Electronics'     2    
+    '#Eludeslights'     1    
+    '#Embedded            protected    :false        verified    :false        followers_count    :1521        friends_count    :880        listed_count    :177        favourites_count    :12689        statuses_count    :13154        created_at    :    Sun'     1    
+    '#EmberJS'     2    
+    '#Embracethegrind            protected    :false        verified    :false        followers_count    :363        friends_count    :544        listed_count    :1        favourites_count    :1187        statuses_count    :4246        created_at    :    Thu'     1    
+    '#EmmyForOnceUponATime            protected    :false        verified    :false        followers_count    :2077        friends_count    :1184        listed_count    :40        favourites_count    :42455        statuses_count    :52586        created_at    :    Fri'     1    
+    '#Empleo'     2    
+    '#EmpleoBarcelona.'     1    
+    '#Enamel'     1    
+    '#End'     1    
+    '#Engineer'     7    
+    '#Engineer    '     4    
+    '#Engineering'     4    
+    '#Engineering    '     2    
+    '#English            protected    :false        verified    :false        followers_count    :105        friends_count    :90        listed_count    :146        favourites_count    :18        statuses_count    :1903        created_at    :    Wed'     1    
+    '#Enterprise'     1    
+    '#Entertainment            protected    :false        verified    :false        followers_count    :3048        friends_count    :2337        listed_count    :338        favourites_count    :0        statuses_count    :250153        created_at    :    Fri'     1    
+    '#Entertainment            protected    :false        verified    :false        followers_count    :3048        friends_count    :2337        listed_count    :338        favourites_count    :0        statuses_count    :250167        created_at    :    Fri'     1    
+    '#Entrepreneur'     1    
+    '#Equities    '     1    
+    '#ErickCilla'     1    
+    '#Erinnerungen            source    :        '     2    
+    '#Erlang'     1    
+    '#Eslone'     1    
+    '#Esri'     3    
+    '#Etsy'     4    
+    '#EtsyGifts            source    :        '     1    
+    '#Europa'     1    
+    '#Expats            source    :        '     1    
+    '#Expert'     1    
+    '#F4F'     1    
+    '#FASHION'     1    
+    '#FAV'     1    
+    '#FF'     1    
+    '#FLedChat'     1    
+    '#FLedChat            source    :        '     1    
+    '#FOI            protected    :false        verified    :false        followers_count    :1452        friends_count    :953        listed_count    :65        favourites_count    :15737        statuses_count    :71821        created_at    :    Thu'     1    
+    '#FREELANCE'     1    
+    '#Facebook'     1    
+    '#FallenPetals'     3    
+    '#Fashion'     7    
+    '#Fashion            screen_name    :    Pure_fashion_us            location    :    Washington'     1    
+    '#FatBoiSwag'     2    
+    '#FeelsLikeRealMusic'     1    
+    '#Feina'     1    
+    '#Feminist'     1    
+    '#FestiveFlavors'     1    
+    '#FestiveFritoFlavors            source    :        '     1    
+    '#FileType'     3    
+    '#Fineart'     1    
+    '#Firefox'     1    
+    '#Firmen'     1    
+    '#Fishing'     3    
+    '#Flask'     1    
+    '#Flu            protected    :false        verified    :false        followers_count    :270        friends_count    :150        listed_count    :71        favourites_count    :0        statuses_count    :116541        created_at    :    Fri'     1    
+    '#Flu            protected    :false        verified    :false        followers_count    :270        friends_count    :150        listed_count    :71        favourites_count    :0        statuses_count    :116567        created_at    :    Fri'     1    
+    '#Flu            protected    :false        verified    :false        followers_count    :270        friends_count    :150        listed_count    :72        favourites_count    :0        statuses_count    :116588        created_at    :    Fri'     1    
+    '#Follow'     3    
+    '#FollowBack'     3    
+    '#Food'     1    
+    '#FoodLovers'     1    
+    '#Foodies'     1    
+    '#Forbex.de'     1    
+    '#ForeverLou            protected    :false        verified    :false        followers_count    :1114        friends_count    :534        listed_count    :5        favourites_count    :10822        statuses_count    :53779        created_at    :    Mon'     1    
+    '#Forsale'     3    
+    '#Foundation    '     10    
+    '#Frame'     1    
+    '#Framework\\nWeb'     3    
+    '#Frameworks'     8    
+    '#Frameworks.            protected    :false        verified    :false        followers_count    :1229        friends_count    :2008        listed_count    :614        favourites_count    :1810        statuses_count    :9310        created_at    :    Fri'     1    
+    '#Frameworks.            protected    :false        verified    :false        followers_count    :1229        friends_count    :2008        listed_count    :614        favourites_count    :1810        statuses_count    :9311        created_at    :    Fri'     1    
+    '#Free'     2    
+    '#FreeCodeCamp'     3    
+    '#FreeOcalan'     1    
+    '#FreeShipping'     1    
+    '#Freelance'     1    
+    '#FresnoStateBulldogs'     1    
+    '#Front-End\\/Javascript'     1    
+    '#Full'     4    
+    '#Fullstack'     3    
+    '#Functional'     2    
+    '#Futuristic    '     1    
+    '#GADGET'     8    
+    '#GGMU'     2    
+    '#GIFTIDE            source    :        '     1    
+    '#GIFTIDEA'     5    
+    '#GIFTI\\u2026            source    :        '     1    
+    '#GIS'     1    
+    '#GOTD'     6    
+    '#Gadgets\\r\\nhttp:\\/\\/www.tunguzreview.com            protected    :false        verified    :false        followers_count    :124        friends_count    :430        listed_count    :16        favourites_count    :209        statuses_count    :6988        created_at    :    Tue'     1    
+    '#Galicia'     1    
+    '#Gameinsight'     1    
+    '#Gamers'     1    
+    '#Gaming'     1    
+    '#Gardening            source    :        '     3    
+    '#Gas'     1    
+    '#Geek'     1    
+    '#Geezihateualot'     2    
+    '#Gente'     2    
+    '#Gesellschaften'     1    
+    '#GetA\\u2026            source    :        '     1    
+    '#GetAllJobs            source    :        '     11    
+    '#GetFreeTwitterFollowers'     2    
+    '#GetJavaMonsterGear            source    :        '     3    
+    '#Gift'     6    
+    '#Gifts'     2    
+    '#GiveAway'     3    
+    '#Giveaway'     6    
+    '#Gladiator    '     1    
+    '#Glasgow'     2    
+    '#Global'     1    
+    '#GlockInPurse'     1    
+    '#Go            protected    :false        verified    :false        followers_count    :197        friends_count    :152        listed_count    :99        favourites_count    :0        statuses_count    :49108        created_at    :    Sat'     1    
+    '#Go            protected    :false        verified    :false        followers_count    :197        friends_count    :152        listed_count    :99        favourites_count    :0        statuses_count    :49109        created_at    :    Sat'     1    
+    '#Go            protected    :false        verified    :false        followers_count    :2331        friends_count    :2543        listed_count    :105        favourites_count    :1        statuses_count    :203375        created_at    :    Sun'     1    
+    '#Go            protected    :false        verified    :false        followers_count    :2331        friends_count    :2543        listed_count    :105        favourites_count    :1        statuses_count    :203402        created_at    :    Sun'     1    
+    '#Go            protected    :false        verified    :false        followers_count    :491        friends_count    :56        listed_count    :212        favourites_count    :0        statuses_count    :180849        created_at    :    Sat'     1    
+    '#GoPackGo            protected    :false        verified    :false        followers_count    :510        friends_count    :195        listed_count    :1        favourites_count    :1133        statuses_count    :8098        created_at    :    Mon'     3    
+    '#Gold'     2    
+    '#Good_Night            protected    :false        verified    :false        followers_count    :452        friends_count    :5        listed_count    :3        favourites_count    :0        statuses_count    :34771        created_at    :    Tue'     1    
+    '#Google'     2    
+    '#Google4life'     1    
+    '#Google\\u00a0Cares'     2    
+    '#Gourou'     1    
+    '#GrammarNazi'     2    
+    '#GrandeLa\\u2026            source    :        '     1    
+    '#GrandeLatte'     1    
+    '#GrandeLatte            source    :        '     3    
+    '#Gratis'     1    
+    '#GreatMusic'     1    
+    '#GreenBayFAN'     2    
+    '#GreysAnatomy            protected    :false        verified    :false        followers_count    :533        friends_count    :1170        listed_count    :13        favourites_count    :8392        statuses_count    :12165        created_at    :    Fri'     1    
+    '#Groucho    '     1    
+    '#Groucho:'     2    
+    '#Growthacker'     1    
+    '#GulpJS'     2    
+    '#Gurgaon'     1    
+    '#HTML    '     2    
+    '#HTML5'     80    
+    '#HTML5    '     5    
+    '#HTTR            protected    :false        verified    :false        followers_count    :1099        friends_count    :201        listed_count    :43        favourites_count    :374        statuses_count    :43        created_at    :    Thu'     1    
+    '#Hadoop    '     1    
+    '#Halo'     3    
+    '#HappyEid'     2    
+    '#HappyTeachersDay2015'     2    
+    '#HeadHunting            protected    :false        verified    :false        followers_count    :431        friends_count    :330        listed_count    :20        favourites_count    :16        statuses_count    :1647        created_at    :    Thu'     1    
+    '#Healing'     2    
+    '#Health            protected    :false        verified    :false        followers_count    :23130        friends_count    :23395        listed_count    :108        favourites_count    :49        statuses_count    :52906        created_at    :    Wed'     1    
+    '#Healthcare'     8    
+    '#Hearthstone'     3    
+    '#Helping'     1    
+    '#Hiking'     3    
+    '#Hiring'     3    
+    '#Hiring            source    :        '     3    
+    '#Hobby'     1    
+    '#Hockey'     5    
+    '#HolidaySmile'     1    
+    '#HomeDecor'     2    
+    '#Honda'     2    
+    '#HondaCivic'     2    
+    '#Hot'     3    
+    '#HowTO\\nhttps:\\/\\/t.co\\/CGL8qYFQUo            source    :        '     1    
+    '#HowTO\\nhttps:\\/\\/t.co\\/DoBT4b3cFG            source    :        '     1    
+    '#HowTO\\nhttps:\\/\\/t.co\\/E8BQbzeCJ7            source    :        '     1    
+    '#HowTO\\nhttps:\\/\\/t.co\\/MSl8wf2oik            source    :        '     1    
+    '#HowTO\\nhttps:\\/\\/t.co\\/NpFDxwj8pj            source    :        '     1    
+    '#HowTO\\nhttps:\\/\\/t.co\\/agoydS2hPe            source    :        '     1    
+    '#HowTO\\nhttps:\\/\\/t.co\\/gs2CqYenTv            source    :        '     1    
+    '#HowTO\\nhttps:\\/\\/t.co\\/iyrb5XL7Ab            source    :        '     1    
+    '#HowTO\\nhttps:\\/\\/t.co\\/pJzrOR4s8X            source    :        '     1    
+    '#HowTO\\nhttps:\\/\\/t.co\\/wK3jujRkTD            source    :        '     1    
+    '#HowTo'     8    
+    '#HowTo\\n:'     11    
+    '#HowTo\\nhttps:\\/\\/t.co\\/3N8fSFC6oc            source    :        '     3    
+    '#HowTo\\nhttps:\\/\\/t.co\\/G0wzd4BpJV            source    :        '     1    
+    '#HowTo\\nhttps:\\/\\/t.co\\/HEfUoiJq7g            source    :        '     1    
+    '#HowTo\\nhttps:\\/\\/t.co\\/Qa9FV5Qkh2            source    :        '     1    
+    '#HowTo\\nhttps:\\/\\/t.co\\/VGc2XNyHEh            source    :        '     1    
+    '#HowTo\\nhttps:\\/\\/t.co\\/W1Rv2vz5zS            source    :        '     1    
+    '#HowTo\\nhttps:\\/\\/t.co\\/W1WuBqcG9b            source    :        '     1    
+    '#HowTo\\nhttps:\\/\\/t.co\\/aczWUW6GTe            source    :        '     1    
+    '#HowTo\\nhttps:\\/\\/t.co\\/ebFnU19bUt          type    :    photo            sizes    :{    large    :{    w    :1024        h    :1365        resize    :    fit    }        small    :{    w    :340        h    :453        resize    :    fit    }        medium    :{    w    :600        h    :800        resize    :    fit    }        thumb    :{    w    :150        h    :150        resize    :    crop    }}        source_status_id    :677307031338881025        source_status_id_str    :    677307031338881025            source_user_id    :67602658        source_user_id_str    :    67602658    }]}        extended_entities    :{    media    :[{    id    :677307017468362752        id_str    :    677307017468362752            indices    :[65    88]        media_url    :    http:\\/\\/pbs.twimg.com\\/media\\/CWZHJNQUwAAM9E3.jpg            media_url_https    :    https:\\/\\/pbs.twimg.com\\/media\\/CWZHJNQUwAAM9E3.jpg            url    :    https:\\/\\/t.co\\/mNYYN3ms0P            display_url    :    pic.twitter.com\\/mNYYN3ms0P            expanded_url    :    http:\\/\\/twitter.com\\/sunaneko666\\/status\\/677307031338881025\\/photo\\/1            type    :    photo            sizes    :{    large    :{    w    :1024        h    :1365        resize    :    fit    }        small    :{    w    :340        h    :453    structor', 1    
+    '#Ins    rance'     8    
+    '#InteractionDesign    '     2    
+    '#Interesantes            source    :        '     1    
+    '#Intermediate'     1    
+    '#Internet'     32    
+    '#Internet    '     1    
+    '#Investor'     1    
+    '#IoT'     25    
+    '#IoT    '     1    
+    '#J2isloveJ2islife            protected    :false        verified    :false        followers_count    :160        friends_count    :148        listed_count    :2        favourites_count    :1369        statuses_count    :2191        created_at    :    Thu'     1    
+    '#JAVA'     14    
+    '#JAVA            source    :        '     1    
+    '#JAVA    '     1    
+    '#JAZZ'     1    
+    '#JBoss'     3    
+    '#JDK9'     2    
+    '#JMU19'     1    
+    '#JPY            source    :        '     2    
+    '#JS            source    :        '     3    
+    '#JSHomes'     5    
+    '#JUNIOR'     1    
+    '#Jaipur'     1    
+    '#JavScript    '     1    
+    '#Java'     96    
+    '#Java    '     1    
+    '#Java    '     4    
+    '#JavaEE'     1    
+    '#JavaS...'     3    
+    '#JavaSc\\u2026            source    :        '     4    
+    '#JavaScript'     117    
+    '#JavaScript            protected    :false        verified    :false        followers_count    :89        friends_count    :203        listed_count    :30        favourites_count    :83        statuses_count    :180        created_at    :    Fri'     1    
+    '#JavaScript            protected    :false        verified    :false        followers_count    :89        friends_count    :203        listed_count    :30        favourites_count    :83        statuses_count    :181        created_at    :    Fri'     1    
+    '#JavaScript            source    :        '     56    
+    '#JavaScript    '     18    
+    '#JavaScript?'     2    
+    '#JavaScriptLibrary'     3    
+    '#JavaScript\\nhttps:\\/\\/t.co\\/9a0kNUHi1j\\n---\\n#UI'     4    
+    '#JavaScript\\nhttps:\\/\\/t.co\\/FtmSR3OHuQ\\n---\\n#jQuery'     4    
+    '#JavaScript\\nhttps:\\/\\/t.co\\/IyfygawUnm\\n---\\n#UI'     2    
+    '#JavaScript\\nhttps:\\/\\/t.co\\/QqqHQQetNw\\n---\\n#UI'     1    
+    '#JavaScript\\nhttps:\\/\\/t.co\\/Uz99LqLimB\\n---\\n#jQuery'     3    
+    '#JavaScript\\nhttps:\\/\\/t.co\\/umgK9d8UOp\\n---\\n#jQuery'     2    
+    '#JavaScript\\nhttps:\\/\\/t.co\\/wcReUJeVgI\\n---\\n#UI'     2    
+    '#JavaScript\\nhttps:\\/\\/t.co\\/xda1HpXhMZ\\n---\\n#jQuery'     1    
+    '#JavaScript\\nhttps:\\/\\/t.co\\/xda1HqeTbz\\n---\\n#jQuery'     2    
+    '#JavaScript\\nhttps:\\/\\/t.co\\/yXPYJfAJeV\\n---\\n#UI'     2    
+    '#JavaScript\\u2026            source    :        '     1    
+    '#Java\\/Grails'     1    
+    '#Java\\/Web'     1    
+    '#Javaengineer'     2    
+    '#Javascript'     53    
+    '#Javascript            source    :        '     2    
+    '#Javascript    '     2    
+    '#Javascript:'     2    
+    '#Javascript\\n10%'     2    
+    '#Jenkins'     1    
+    '#Jenkins            source    :        '     1    
+    '#JerseyCity'     6    
+    '#JessicaSimpson            source    :        '     1    
+    '#Jewellery'     3    
+    '#Jewellery            source    :        '     8    
+    '#Jewelry'     70    
+    '#Jewelry_Watches'     1    
+    '#Job'     10    
+    '#Job:'     2    
+    '#Jobs'     13    
+    '#JobsAbroad            source    :        '     3    
+    '#JordanGrottah'     1    
+    '#JordanGrottoholicKing'     1    
+    '#Joyride            screen_name    :    Soulphire            location    :    New'     1    
+    '#Junior'     1    
+    '#JusticeOrElse!            protected    :false        verified    :false        followers_count    :7031        friends_count    :276        listed_count    :69        favourites_count    :3775        statuses_count    :1976        created_at    :    Thu'     1    
+    '#JusticeOrElse!            protected    :false        verified    :false        followers_count    :7034        friends_count    :276        listed_count    :69        favourites_count    :3774        statuses_count    :1975        created_at    :    Thu'     1    
+    '#JusticeOrElse!            protected    :false        verified    :false        followers_count    :7034        friends_count    :276        listed_count    :69        favourites_count    :3775        statuses_count    :1975        created_at    :    Thu'     2    
+    '#K12'     1    
+    '#KCCO            protected    :false        verified    :false        followers_count    :492        friends_count    :393        listed_count    :0        favourites_count    :20930        statuses_count    :10563        created_at    :    Sun'     1    
+    '#KCCO            protected    :false        verified    :false        followers_count    :511        friends_count    :415        listed_count    :1        favourites_count    :8014        statuses_count    :12766        created_at    :    Sat'     1    
+    '#Kalanamith'     1    
+    '#KamisUnik'     1    
+    '#KamisUnik            source    :        '     2    
+    '#Kandy'     1    
+    '#Karaoke'     1    
+    '#Kent'     1    
+    '#Kitchen'     1    
+    '#KnifeKnut'     1    
+    '#Knit'     1    
+    '#Knowledge'     1    
+    '#Kochi'     1    
+    '#Kunden'     1    
+    '#LACaJobs            source    :        '     1    
+    '#LETSGOHEAT'     2    
+    '#LINEWebtoon\\nhttps:\\/\\/t.co\\/MT7llPKfHL            source    :        '     1    
+    '#LINUX.'     1    
+    '#LOL'     3    
+    '#LOLZ'     2    
+    '#LOVATICS'     1    
+    '#LVWishList'     2    
+    '#LaTrilog\\u00edaEmpresarial'     1    
+    '#LaTrilog\\u00edaEmpresarial:'     1    
+    '#Lab\\u00e8ge'     1    
+    '#Lakers.'     1    
+    '#Landscapes'     1    
+    '#Laravel'     16    
+    '#Laravel    '     1    
+    '#Latinoam\\u00e9rica'     1    
+    '#LazyStoneSec'     1    
+    '#Lead'     3    
+    '#LeagueOfLegends'     1    
+    '#Lean            protected    :false        verified    :false        followers_count    :126        friends_count    :89        listed_count    :20        favourites_count    :1        statuses_count    :2615        created_at    :    Tue'     1    
+    '#LearnToCode'     11    
+    '#Learner'     1    
+    '#Lebanon.'     4    
+    '#Lelystad'     1    
+    '#Level'     1    
+    '#Like'     3    
+    '#Lille'     1    
+    '#LinkedIn'     1    
+    '#Linux'     2    
+    '#Linz    '     1    
+    '#Listen'     1    
+    '#Live'     3    
+    '#Lobster'     1    
+    '#London'     5    
+    '#London:'     5    
+    '#Londonjobs'     2    
+    '#LordOfTheRings'     3    
+    '#LosAngeles'     1    
+    '#LosAngeles    '     1    
+    '#LouisVuitton'     2    
+    '#Love'     4    
+    '#LoveManyTrustFew'     1    
+    '#LoveMarchesOn    '     1    
+    '#Luxury'     64    
+    '#MAXMSPJITTER            source    :        '     1    
+    '#MDM'     1    
+    '#MIEExpert            protected    :false        verified    :false        followers_count    :1493        friends_count    :1605        listed_count    :104        favourites_count    :4232        statuses_count    :2644        created_at    :    Tue'     1    
+    '#MLMallPM'     6    
+    '#MONEY'     1    
+    '#MSSQL'     2    
+    '#MUFC'     2    
+    '#MUG            source    :        '     1    
+    '#MV            protected    :false        verified    :false        followers_count    :78        friends_count    :116        listed_count    :0        favourites_count    :173        statuses_count    :725        created_at    :    Thu'     1    
+    '#MVP'     1    
+    '#M\\u0142odszy'     1    
+    '#Mac'     1    
+    '#MachineLearning'     12    
+    '#MachineLearning            protected    :false        verified    :false        followers_count    :1088        friends_count    :1534        listed_count    :539        favourites_count    :9450        statuses_count    :7455        created_at    :    Sat'     1    
+    '#MachineLearning            protected    :false        verified    :false        followers_count    :977        friends_count    :390        listed_count    :148        favourites_count    :14651        statuses_count    :6130        created_at    :    Sat'     1    
+    '#Mala'     4    
+    '#Malware'     3    
+    '#Manufacture'     1    
+    '#Manufacturer    '     1    
+    '#Manufacturing'     8    
+    '#Marketing'     1    
+    '#Married'     2    
+    '#MarxBrothers'     2    
+    '#Maserati.'     1    
+    '#Media'     3    
+    '#Medior'     1    
+    '#Meetup'     4    
+    '#Memory.\\    What'     2    
+    '#Men'     1    
+    '#MerryChristmas2015'     2    
+    '#MeteorJS    '     2    
+    '#Miami'     3    
+    '#MiamiHeat'     1    
+    '#MiamiHeat.'     1    
+        #Microservices?\\n\\nI'm         1    
+    '#Microsoft            protected    :false        verified    :false        followers_count    :423        friends_count    :1187        listed_count    :26        favourites_count    :28        statuses_count    :554        created_at    :    Mon'     1    
+    '#Microsoft            protected    :false        verified    :false        followers_count    :947        friends_count    :1308        listed_count    :46        favourites_count    :32        statuses_count    :2301        created_at    :    Sun'     1    
+    '#Mid'     1    
+    '#Mid-Level'     1    
+    '#Milano    '     1    
+    '#Miles19'     1    
+    '#Mining'     1    
+    '#Mobile'     3    
+    '#Mobile    '     1    
+    '#Mobility'     2    
+    '#Model'     1    
+    '#Moncton'     1    
+    '#MoneyCanBuyhappiness'     1    
+    '#MongoDB'     13    
+    '#MongoDB            source    :        '     2    
+    '#Montr\\u00e9al'     1    
+    '#Montr\\u00e9al    '     1    
+    '#Montreal'     4    
+    '#Morena!!!            protected    :false        verified    :false        followers_count    :240        friends_count    :552        listed_count    :6        favourites_count    :769        statuses_count    :5459        created_at    :    Wed'     1    
+    '#MotorTrader'     2    
+    '#Movie'     1    
+    '#MultiRP            protected    :false        verified    :false        followers_count    :441        friends_count    :30        listed_count    :2        favourites_count    :444        statuses_count    :8013        created_at    :    Thu'     1    
+        #MyKali's         2    
+    '#MySQL'     1    
+    '#MySQL    '     4    
+    '#NBA'     2    
+    '#NCIS'     1    
+    '#NEONNATiON'     1    
+    '#NEW'     7    
+    '#NHL'     3    
+    '#NOWPLAYING'     1    
+    '#NP'     3    
+    '#NPM'     2    
+    '#NPORADIO2'     1    
+    '#NY            source    :        '     1    
+    '#NYC'     2    
+    '#NameYourDickAfterAMovie            source    :        '     1    
+    '#Nashville'     1    
+    '#NationalParks'     1    
+    '#NativeScript'     3    
+    '#NaviMumbai'     1    
+    '#Nederland'     1    
+    '#NewJersey'     2    
+    '#NewYork'     11    
+    '#News'     27    
+    '#News-reporter'     1    
+    '#NginScript            source    :        '     4    
+    '#NginX'     2    
+    '#Niners            protected    :false        verified    :false        followers_count    :862        friends_count    :1340        listed_count    :34        favourites_count    :19690        statuses_count    :29798        created_at    :    Wed'     1    
+    '#NoSQL            protected    :false        verified    :false        followers_count    :1891        friends_count    :502        listed_count    :128        favourites_count    :300        statuses_count    :2701        created_at    :    Fri'     2    
+    '#NoSyrianRefugees            protected    :false        verified    :false        followers_count    :611        friends_count    :121        listed_count    :12        favourites_count    :1648        statuses_count    :5655        created_at    :    Thu'     1    
+    '#NodeJS            protected    :false        verified    :false        followers_count    :22        friends_count    :93        listed_count    :3        favourites_count    :5        statuses_count    :65        created_at    :    Thu'     2    
+    '#NodeJS            source    :        '     2    
+    '#NodeJS    '     6    
+    '#Nodejs'     2    
+    '#Nodejs    '     1    
+    '#Noida'     1    
+    '#Nominee'     4    
+    '#Nordrhein-Westfal...'     1    
+    '#Nordrhein-Westfalen...'     1    
+    '#Nurse\\/#2A\\/#NRA\\/Just'     1    
+    '#OITNB            source    :        '     1    
+    '#ONWineChat            source    :        '     2    
+    '#ONWineChat.'     2    
+    '#ORM'     2    
+    '#OTC'     2    
+    '#OTWOLStartUp'     6    
+    '#OceanRace'     1    
+    '#Ofertas'     2    
+    '#Offers'     6    
+    '#Office'     1    
+    '#Oil'     1    
+    '#OnceUponATime?\\n\\nRT'     2    
+    '#Online'     2    
+    '#OpenCV'     2    
+    '#OpenShift'     2    
+    '#OpenTrip_JW            source    :        '     1    
+    '#Opportunity'     17    
+    '#Oracle'     1    
+    '#Orense'     1    
+    '#OwingsMills'     1    
+    '#Oxford'     1    
+    '#PDF'     1    
+    '#PHP'     33    
+    '#PHP            source    :        '     1    
+    '#PHP    '     4    
+    '#PKK'     1    
+    '#PRODUCER'     1    
+    '#PYTHON'     3    
+    '#PYTHON\\u2026            source    :        '     1    
+    '#Padded'     1    
+    '#Painting'     3    
+    '#Paintings'     1    
+    '#Paperback'     7    
+    '#Paris!            protected    :false        verified    :false        followers_count    :469        friends_count    :591        listed_count    :54        favourites_count    :5854        statuses_count    :58845        created_at    :    Fri'     1    
+    '#PartnerMicrosoft'     1    
+    '#PasarAdv'     1    
+    '#Passion'     1    
+    '#Peace'     4    
+    '#Pendants'     64    
+    '#Penguins'     2    
+    '#PennyStock'     2    
+    '#Pentest'     3    
+    '#Perl'     2    
+    '#Personality'     1    
+    '#Pet'     1    
+    '#Pets'     1    
+    '#Photo'     1    
+    '#Photographer'     3    
+    '#Photography'     2    
+    '#Php    '     2    
+    '#Pi\\u2026            source    :        '     1    
+    '#Picture'     1    
+    '#Pin'     1    
+    '#Pingdom'     1    
+    '#Pinterest'     3    
+    '#PlaneParty'     1    
+    '#PocketProgramming'     1    
+    '#Pr\\u00e4sentation'     1    
+    '#Procesos'     2    
+    '#Product'     1    
+    '#Programador            protected    :false        verified    :false        followers_count    :91        friends_count    :70        listed_count    :21        favourites_count    :2        statuses_count    :3104        created_at    :    Tue'     1    
+    '#Programista'     1    
+    '#Programmatore'     1    
+    '#Programmer'     3    
+    '#Programmeur'     1    
+    '#Programming'     3    
+    '#ProtectTransLives'     3    
+    '#ProzessGroup'     1    
+    '#Pune'     1    
+    '#Pure    '     10    
+    '#Purpose            screen_name    :    kordeidrauhl            location    :    Justin'     1    
+    '#PyImageSearch\\nhttps:\\/\\/t.co\\/OR9E9KnZyW\\n#django'     2    
+    '#Python'     63    
+    '#Python            source    :        '     7    
+    '#Python    '     2    
+    '#Python...\\n#Dev'     5    
+    '#Python3'     3    
+    '#Python3            source    :        '     1    
+    '#PythonGurgaon'     1    
+    '#Quality'     1    
+    '#Queensland'     1    
+    '#Question'     21    
+    '#Quilt'     1    
+    '#Qweboo'     1    
+    '#R'     1    
+    '#R&amp;B'     1    
+    '#R6'     3    
+    '#RAV            screen_name    :    kokitach            location    :null        url    :null        description    :    Naci'     1    
+    '#REGGAE'     1    
+    '#REPL'     2    
+    '#RP'     4    
+    '#RT'     3    
+    '#RT            source    :        '     8    
+    '#RUBY'     2    
+    '#RWBY'     1    
+    '#RWBYRP'     2    
+    '#R\\u2026            source    :        '     1    
+    '#Rails'     4    
+    '#RapUs'     1    
+    '#RaspberryPi'     1    
+    '#ReDesignWebsites'     1    
+    '#React'     3    
+    '#Real'     1    
+    '#Recipes'     1    
+    '#Recreational'     1    
+    '#Recruiter'     1    
+    '#Red'     4    
+    '#RedSoxFan'     2    
+    '#RedistributeThePain'     8    
+    '#RedwoodCity'     1    
+    '#Reggae'     1    
+    '#RelationshipGoals'     1    
+    '#Rencontres'     1    
+    '#Repost'     1    
+    '#Requests'     1    
+    '#Research'     2    
+    '#Retailer'     1    
+    '#Ring'     8    
+    '#RoR            source    :        '     1    
+    '#Ruby'     58    
+    '#Ruby            source    :        '     1    
+    '#Ruby    '     1    
+    '#Ruby.'     2    
+    '#Ruby?'     4    
+    '#RubyConfIndia'     1    
+    '#RubyDresses'     8    
+    '#RubyDresses            source    :        '     1    
+    '#RubyOnRails'     2    
+    '#RubyRose'     4    
+    '#RubyonRails'     8    
+    '#RubyonRails    '     3    
+    '#Rust            protected    :false        verified    :false        followers_count    :624        friends_count    :515        listed_count    :37        favourites_count    :2253        statuses_count    :2691        created_at    :    Sun'     1    
+    '#SALE'     1    
+    '#SEO'     5    
+    '#SFGiants'     1    
+    '#SF\\uc18c\\uc124'     6    
+    '#SIDfm'     1    
+    '#SMAC'     1    
+    '#SMG.            protected    :false        verified    :false        followers_count    :679        friends_count    :398        listed_count    :11        favourites_count    :3145        statuses_count    :16998        created_at    :    Mon'     1    
+    '#SMG.            source    :        '     1    
+    '#SM\\u2026            source    :        '     1    
+    '#SOFTWARE'     1    
+    '#SPN'     2    
+    '#SPNFamiIy'     1    
+    '#SPNFamily'     10    
+    '#SPN\\nDescriptive'     1    
+    '#SPN\\nLooking'     1    
+    '#SQL'     8    
+    '#SQL    '     2    
+    '#SUP\\n#wine'     1    
+    '#SaaS'     5    
+    '#SafariLive            source    :        '     1    
+    '#Safety'     1    
+    '#SaleGear'     1    
+    '#Sales'     5    
+    '#SaltStack            protected    :false        verified    :false        followers_count    :246        friends_count    :229        listed_count    :53        favourites_count    :91        statuses_count    :159        created_at    :    Thu'     2    
+    '#SamGirl'     1    
+    '#SanDiego'     2    
+    '#SanFrancisco'     6    
+    '#SanFrancisco    '     1    
+    '#SanJose'     1    
+    '#SanJose    '     1    
+    '#SanRamon'     2    
+    '#Sandton'     1    
+    '#Sarcasm'     1    
+    '#SatanicSanta'     1    
+    '#Scala'     2    
+    '#Scalability'     2    
+    '#Scandal'     1    
+    '#ScarFaceRadio\\n@rickyrozay'     7    
+    '#Science'     1    
+    '#ScrapBookWHET            protected    :false        verified    :false        followers_count    :10986        friends_count    :6055        listed_count    :99        favourites_count    :741        statuses_count    :29226        created_at    :    Tue'     1    
+    '#ScrapBookWHET            protected    :false        verified    :false        followers_count    :10987        friends_count    :6056        listed_count    :98        favourites_count    :741        statuses_count    :29225        created_at    :    Tue'     1    
+    '#Scrum    '     4    
+    '#Seacsub'     1    
+    '#Seattle'     3    
+    '#SegundoTiempo'     2    
+    '#Selenium'     12    
+    '#Selenium            source    :        '     3    
+    '#SellMyCar'     2    
+    '#SemanticUI    '     10    
+    '#Senior'     9    
+    '#SerieA'     1    
+    '#Services'     2    
+    '#Sevilla'     5    
+    '#Sevilla            protected    :false        verified    :false        followers_count    :756        friends_count    :922        listed_count    :50        favourites_count    :0        statuses_count    :80993        created_at    :    Wed'     1    
+    '#SexAmateur'     1    
+    '#Shoes'     1    
+    '#Shoes            protected    :false        verified    :false        followers_count    :3464        friends_count    :4285        listed_count    :445        favourites_count    :2762        statuses_count    :33795        created_at    :    Fri'     1    
+    '#Shop'     4    
+    '#Shopping'     4    
+    '#ShortWife'     2    
+    '#Silver'     2    
+    '#SimplyPerfect'     19    
+    '#Smiles'     1    
+    '#SocialMedia'     3    
+    '#Socialmedia'     1    
+    '#Software'     9    
+    '#Software-Entwickler\\/inMehr'     1    
+    '#Solihull'     2    
+    '#Somersetjobs'     1    
+    '#Sooners'     1    
+    '#SoundCloud'     2    
+    '#SoundCloud            source    :        '     1    
+    '#SoundCloud\\nhttp:\\/\\/soundcloud.com\\/user-482728501\\/kill-yourself            protected    :false        verified    :false        followers_count    :5        friends_count    :13        listed_count    :0        favourites_count    :2        statuses_count    :28        created_at    :    Thu'     1    
+    '#SouthBeach'     1    
+    '#Spark'     1    
+    '#Spark    '     2    
+    '#Special'     4    
+    '#Speech'     18    
+    '#Spn            protected    :false        verified    :false        followers_count    :214        friends_count    :348        listed_count    :0        favourites_count    :0        statuses_count    :16        created_at    :    Tue'     1    
+    '#Sport'     1    
+    '#Sporting'     1    
+    '#Sporting            protected    :false        verified    :false        followers_count    :212        friends_count    :130        listed_count    :105        favourites_count    :0        statuses_count    :54597        created_at    :    Sat'     1    
+    '#Sporting            protected    :false        verified    :false        followers_count    :212        friends_count    :130        listed_count    :105        favourites_count    :0        statuses_count    :54598        created_at    :    Sat'     1    
+    '#Sports'     4    
+    '#Spring'     1    
+    '#SqlServer'     1    
+    '#Sr.'     4    
+    '#SriLanka'     1    
+    '#St\\u2026            source    :        '     1    
+    '#Stack'     5    
+    '#StackOverflow'     1    
+    '#StackOverflow            source    :        '     1    
+    '#Stamford    '     1    
+    '#StarWars'     3    
+    '#StarWars            source    :        '     9    
+    '#StarWarsCharacterTexts            source    :        '     1    
+    '#Startup'     1    
+    '#Starwars'     3    
+    '#StateParks'     1    
+    '#StayWoke            protected    :false        verified    :false        followers_count    :1669        friends_count    :679        listed_count    :110        favourites_count    :36104        statuses_count    :47175        created_at    :    Sun'     1    
+    '#Store'     2    
+    '#Strength'     1    
+    '#StriveForGreatness            protected    :false        verified    :false        followers_count    :256        friends_count    :542        listed_count    :2        favourites_count    :449        statuses_count    :2470        created_at    :    Fri'     1    
+    '#StriveForGreatness            protected    :false        verified    :false        followers_count    :256        friends_count    :543        listed_count    :2        favourites_count    :449        statuses_count    :2472        created_at    :    Fri'     1    
+    '#Structure'     1    
+    '#Student            protected    :false        verified    :false        followers_count    :450        friends_count    :953        listed_count    :16        favourites_count    :465        statuses_count    :701        created_at    :    Wed'     1    
+    '#Style'     2    
+    '#SupernaturaI'     1    
+    '#Sushi'     1    
+    '#SyntheticData'     5    
+    '#TCOT            protected    :false        verified    :false        followers_count    :17        friends_count    :2        listed_count    :1        favourites_count    :0        statuses_count    :13231        created_at    :    Thu'     1    
+    '#TCOT            protected    :false        verified    :false        followers_count    :17        friends_count    :2        listed_count    :1        favourites_count    :0        statuses_count    :13232        created_at    :    Thu'     1    
+    '#TCOT            protected    :false        verified    :false        followers_count    :17        friends_count    :2        listed_count    :1        favourites_count    :0        statuses_count    :13233        created_at    :    Thu'     1    
+    '#TCOT            protected    :false        verified    :false        followers_count    :17        friends_count    :2        listed_count    :1        favourites_count    :0        statuses_count    :13234        created_at    :    Thu'     1    
+    '#TCOT            protected    :false        verified    :false        followers_count    :17        friends_count    :2        listed_count    :1        favourites_count    :0        statuses_count    :13235        created_at    :    Thu'     1    
+    '#TCOT            protected    :false        verified    :false        followers_count    :17        friends_count    :2        listed_count    :1        favourites_count    :0        statuses_count    :13236        created_at    :    Thu'     1    
+    '#TCOT            protected    :false        verified    :false        followers_count    :17        friends_count    :2        listed_count    :1        favourites_count    :0        statuses_count    :13237        created_at    :    Thu'     1    
+    '#TCOT            protected    :false        verified    :false        followers_count    :17        friends_count    :2        listed_count    :1        favourites_count    :0        statuses_count    :13238        created_at    :    Thu'     1    
+    '#TCOT            protected    :false        verified    :false        followers_count    :17        friends_count    :2        listed_count    :1        favourites_count    :0        statuses_count    :13239        created_at    :    Thu'     1    
+    '#TCOT            protected    :false        verified    :false        followers_count    :17        friends_count    :2        listed_count    :1        favourites_count    :0        statuses_count    :13240        created_at    :    Thu'     1    
+    '#TCOT            protected    :false        verified    :false        followers_count    :4585        friends_count    :4366        listed_count    :64        favourites_count    :19749        statuses_count    :32399        created_at    :    Mon'     1    
+    '#TDD'     6    
+    '#TEAMLEBRON'     2    
+    '#TFW            source    :        '     1    
+    '#TOONAMIFATEFULL'     2    
+    '#TRAVEL'     1    
+    '#TS\\u2026            source    :        '     1    
+    '#TShirts'     1    
+    '#TV'     1    
+    '#TV            protected    :false        verified    :false        followers_count    :28        friends_count    :32        listed_count    :1        favourites_count    :2        statuses_count    :1        created_at    :    Sun'     3    
+    '#T\\u00a3\\u00a9H!\\u20ac'     1    
+    '#TalentAcquisition'     1    
+    '#TaylorSwiftOrDie.'     1    
+    '#Team'     3    
+    '#TeamFallowBack            protected    :false        verified    :false        followers_count    :2490        friends_count    :2365        listed_count    :152        favourites_count    :0        statuses_count    :269300        created_at    :    Wed'     1    
+    '#TeamFollowBack            protected    :false        verified    :false        followers_count    :130541        friends_count    :130698        listed_count    :1372        favourites_count    :3        statuses_count    :6346        created_at    :    Sat'     1    
+    '#TeamFollowBack            protected    :false        verified    :false        followers_count    :130542        friends_count    :130698        listed_count    :1372        favourites_count    :3        statuses_count    :6346        created_at    :    Sat'     1    
+    '#TeamFollowBack            protected    :false        verified    :false        followers_count    :130542        friends_count    :130699        listed_count    :1372        favourites_count    :3        statuses_count    :6346        created_at    :    Sat'     3    
+    '#TeamFollowBack            protected    :false        verified    :false        followers_count    :130543        friends_count    :130699        listed_count    :1372        favourites_count    :3        statuses_count    :6346        created_at    :    Sat'     3    
+    '#TeamFollowBack            protected    :false        verified    :false        followers_count    :130544        friends_count    :130698        listed_count    :1372        favourites_count    :3        statuses_count    :6346        created_at    :    Sat'     1    
+    '#TeamFollowBack            protected    :false        verified    :false        followers_count    :130544        friends_count    :130699        listed_count    :1372        favourites_count    :3        statuses_count    :6346        created_at    :    Sat'     2    
+    '#TeamFollowBack            protected    :false        verified    :false        followers_count    :130545        friends_count    :130699        listed_count    :1372        favourites_count    :3        statuses_count    :6346        created_at    :    Sat'     2    
+    '#TeamFollowBack            protected    :false        verified    :false        followers_count    :130548        friends_count    :130698        listed_count    :1372        favourites_count    :3        statuses_count    :6346        created_at    :    Sat'     1    
+    '#TeamFollowBack            protected    :false        verified    :false        followers_count    :130548        friends_count    :130699        listed_count    :1372        favourites_count    :3        statuses_count    :6346        created_at    :    Sat'     3    
+    '#TeamHeat'     2    
+    '#TeamInsomniaque            source    :        '     1    
+    '#TeamTrump'     1    
+    '#Tech'     5    
+    '#Tech    '     1    
+    '#TechPro'     1    
+    '#Tech\\nhttps:\\/\\/t.co\\/LjqS6zCQ97            source    :        '     1    
+    '#Tech\\nhttps:\\/\\/t.co\\/btu18P93fS            source    :        '     1    
+    '#Tech\\nhttps:\\/\\/t.co\\/oILVqB1sVO            source    :        '     1    
+    '#Technical'     1    
+    '#Technology'     34    
+    '#Technology    '     1    
+    '#TechnologyEvangelist'     2    
+    '#Tecnolog\\u00eda'     2    
+    '#Tempodoeloe'     1    
+    '#TestTTIbyArifyusap            protected    :false        verified    :false        followers_count    :429        friends_count    :259        listed_count    :1        favourites_count    :9        statuses_count    :8421        created_at    :    Sat'     1    
+    '#TestTTIbyArifyusap            source    :        '     1    
+    '#ThankfulRuby'     4    
+    '#TheDanceIcon2'     2    
+    '#TheForceAwakens'     1    
+    '#TheRidiculous6'     1    
+    '#TheWayForward\\n#Balance'     1    
+    '#TheWizLive'     2    
+    '#Themeforest'     1    
+    '#Thiruvananthapuram'     1    
+    '#ThisAnt'     1    
+    '#Throws'     1    
+    '#Ticino...'     1    
+    '#Ticket'     6    
+    '#Tickets'     6    
+    '#TilesNews'     1    
+    '#Titanium'     1    
+    '#TooComfortable'     2    
+    '#Toronto    '     1    
+    '#Tote'     1    
+    '#Towel    '     1    
+    '#Toyota'     1    
+    '#ToyotaCamry            source    :        '     1    
+    '#Toys'     2    
+    '#Trabajo'     4    
+    '#Trabajo            source    :        '     2    
+    '#Trabajos'     1    
+    '#Trade'     1    
+    '#Transformers'     3    
+    '#Translational'     1    
+    '#Treball'     1    
+    '#Trucks'     1    
+    '#Tuesday'     10    
+    '#Tullulah'     1    
+    '#TuneIn            source    :        '     2    
+    '#Tunein'     2    
+    '#TwilioTwitch'     4    
+    '#Twitch'     2    
+    '#TwitchExe:'     1    
+    '#TwitterAddict!'     1    
+    '#TwitterFollowers            protected    :false        verified    :false        followers_count    :1722        friends_count    :94        listed_count    :1809        favourites_count    :19        statuses_count    :388725        created_at    :    Fri'     1    
+    '#TwitterFollowers            protected    :false        verified    :false        followers_count    :1722        friends_count    :94        listed_count    :1809        favourites_count    :19        statuses_count    :388728        created_at    :    Fri'     1    
+    '#TypeScript'     3    
+    '#UI'     10    
+    '#UIKit'     10    
+    '#UK'     2    
+    '#UML'     1    
+    '#UNHCR'     1    
+    '#US'     2    
+    '#USA'     1    
+    '#USMC            protected    :false        verified    :false        followers_count    :546        friends_count    :1684        listed_count    :350        favourites_count    :1181        statuses_count    :6342        created_at    :    Sat'     1    
+    '#UTC'     1    
+    '#UTRGV'     1    
+    '#UVa'     1    
+    '#UX'     58    
+    '#UX            source    :        '     4    
+    '#UX\\u2026'     3    
+    '#Udemy'     4    
+    '#UglySweaterDay.'     4    
+    '#Underscore'     2    
+    '#UniteBlue            protected    :false        verified    :false        followers_count    :19687        friends_count    :18179        listed_count    :297        favourites_count    :43310        statuses_count    :60471        created_at    :    Tue'     1    
+    '#Uniteblue'     1    
+    '#Unterpremst\\u00e4tten'     1    
+    '#UoP            source    :        '     1    
+    '#User'     1    
+    '#VC18            protected    :false        verified    :false        followers_count    :4335        friends_count    :2418        listed_count    :4        favourites_count    :3271        statuses_count    :113235        created_at    :    Wed'     2    
+    '#VC18            protected    :false        verified    :false        followers_count    :4335        friends_count    :2418        listed_count    :4        favourites_count    :3271        statuses_count    :113236        created_at    :    Wed'     1    
+    '#VC18            protected    :false        verified    :false        followers_count    :4336        friends_count    :2418        listed_count    :4        favourites_count    :3271        statuses_count    :113237        created_at    :    Wed'     1    
+    '#Vacancies'     3    
+    '#Valencia'     1    
+    '#Valencia            protected    :false        verified    :false        followers_count    :520        friends_count    :937        listed_count    :37        favourites_count    :0        statuses_count    :156235        created_at    :    Wed'     1    
+    '#Vancouver'     1    
+    '#Vehicles'     1    
+    '#Ventas'     1    
+    '#VictoriasFirstWinter            protected    :false        verified    :true        followers_count    :1640        friends_count    :555        listed_count    :46        favourites_count    :356        statuses_count    :3608        created_at    :    Wed'     3    
+    '#Videogames'     3    
+    '#Viking'     1    
+    '#Vim'     1    
+    '#Vintage'     7    
+    '#Visitkerala            source    :        '     1    
+    '#Visualization'     1    
+    '#Vote'     6    
+    '#WEATNU'     1    
+    '#WEB\\u5236\\u4f5c'     5    
+    '#WINNER'     2    
+    '#WYSIWYG'     1    
+    '#Wait            source    :        '     1    
+    '#Warriors'     2    
+    '#Warszawa'     1    
+    '#Washington    '     1    
+    '#Watches            source    :        '     1    
+    '#WeProtectOurOwn'     1    
+    '#Web'     9    
+    '#Web    '     1    
+    '#WebBizarro'     4    
+    '#WebDev            source    :        '     1    
+    '#WebDeveloper'     3    
+    '#WebDeveloper.'     3    
+    '#WebDevelopment'     1    
+    '#WebDriver'     1    
+    '#WebRTC\\n#VoIP            source    :        '     2    
+    '#WebServices    '     1    
+    '#WebSphere'     2    
+    '#Webcam'     2    
+    '#Webdesign'     13    
+    '#Webdev'     13    
+    '#Webdevelopment'     2    
+    '#Webdevelopment...'     1    
+    '#Webster'     1    
+    '#Wedding'     82    
+    '#WellingtonCity'     1    
+    '#Whatsjava'     1    
+    '#Wildlife'     1    
+    '#Windows'     1    
+    '#Winner'     1    
+    '#Winnipeg'     1    
+    '#Women'     1    
+    '#WomensWednesday'     1    
+    '#WordPress'     3    
+    '#WordPress            protected    :false        verified    :false        followers_count    :11843        friends_count    :300        listed_count    :1007        favourites_count    :16361        statuses_count    :37501        created_at    :    Thu'     1    
+    '#Wordpress'     1    
+    '#WorkThatMatters\\nhttps:\\/\\/t.co\\/DxeN7Ei17F'     1    
+    '#Wow'     2    
+    '#Wppforever            source    :        '     1    
+    '#Writer:'     1    
+    '#XXLMag            source    :        '     1    
+    '#YNWA'     1    
+    '#YR'     1    
+    '#YRN            protected    :false        verified    :false        followers_count    :339        friends_count    :60        listed_count    :9        favourites_count    :17484        statuses_count    :148897        created_at    :    Thu'     1    
+    '#Yelp:'     2    
+    '#YukkuriSec'     1    
+    '#Zend'     4    
+    '#ZephBot            source    :        '     1    
+    '#ZurichCity'     1    
+    '#\\    Java'     6    
+    '#\\/'     2    
+    '#\\/100'     1    
+    '#\\/599'     2    
+    '#\\u00a0BI'     1    
+    '#\\u03b9\\u2113\\u00e5\\u0443\\u00e5\\u0442\\u0127\\u00e5\\u2113\\u00e5\\u03c1\\u00e5\\u0442\\u0127\\u0443'     1    
+    '#\\u03bd\\u03b9\\u029d\\u00e5\\u0443'     1    
+    '#\\u0436\\u0438\\u0437\\u043d\\u044c'     1    
+    '#\\u0437\\u0432\\u0435\\u0437\\u0434\\u044b'     1    
+    '#\\u0438\\u03c3\\u03c3\\u0438\\u0454\\u03b9\\u0455\\u03c1\\u0454\\u027ef\\u0454\\u00e7\\u0442.            protected    :false        verified    :false        followers_count    :567        friends_count    :808        listed_count    :8        favourites_count    :332        statuses_count    :16861        created_at    :    Sat'     1    
+    '#\\u043a\\u043d\\u0438\\u0433\\u0430'     1    
+    '#\\u043a\\u043e\\u043c\\u0435\\u0434\\u0438\\u044f'     1    
+    '#\\u043b\\u044e\\u0434\\u0438'     1    
+    '#\\u043c\\u00e5\\u0127\\u0454\\u0455\\u0127\\u0432\\u00e5\\u0432\\u03c5.\\u00e5'     1    
+    '#\\u043c\\u0443\\u0437\\u044b\\u043a\\u0430'     1    
+    '#\\u043c\\u0455\\u0111\\u0127\\u03c3\\u0438\\u03b9'     1    
+    '#\\u043d\\u043e\\u0432\\u043e\\u0441\\u0442\\u0438'     1    
+    '#\\u0440\\u0435\\u043a\\u043b\\u0430\\u043c\\u0430'     1    
+    '#\\u0441\\u043b\\u0443\\u0445\\u0438'     1    
+    '#\\u0442\\u0435\\u0445\\u043d\\u043e\\u043b\\u043e\\u0433\\u0438\\u0438'     1    
+    '#\\u0444\\u043e\\u0442\\u043e\\u0433\\u0440\\u0430\\u0444\\u0438\\u044f'     1    
+    '#\\u0627\\u062a\\u0648\\u0645\\u0627\\u0633\\u06cc\\u0648\\u0646\\u060c'     1    
+    '#\\u0641\\u0631\\u0627\\u0634\\u062f\\u0647\\u0648\\u0634\\u0645\\u0646\\u062f.'     1    
+    '#\\u0646\\u0631\\u0645_\\u0627\\u0641\\u0632\\u0627\\u0631\\u06cc\\u060c\\u200c'     1    
+    '#\\u0647\\u0648\\u0634_\\u0645\\u0635\\u0646\\u0648\\u0639\\u06cc\\u060c'     1    
+    '#\\u06af\\u06cc\\u0645\\u06cc\\u0641\\u06cc\\u06a9\\u06cc\\u0634\\u0646            protected    :false        verified    :false        followers_count    :133        friends_count    :522        listed_count    :235        favourites_count    :195        statuses_count    :8926        created_at    :    Wed'     1    
+    '#\\u0bae\\u0bbf\\u0b95\\u0bcd\\u0b9a\\u0bb0\\u0bcd'     1    
+    '#\\u2026'     3    
+    '#\\u2026            source    :        '     2    
+    '#\\u304a\\u3081\\u3067\\u30c8\\u30ef\\u69d8            screen_name    :    daishi_hmr            location    :    JS\\u30b7\\u30e5\\u30fc\\u30c6\\u30a3\\u30f3\\u30b0\\u754c            url    :    http:\\/\\/github.dev7.jp            description    :    \\u30a4\\u30f3\\u30bf\\u30fc\\u30cd\\u30c3\\u30c8\\u30b2\\u30fc\\u30e0\\u4f5c\\u308a\\u30de\\u30f3\\u3002'     1    
+    '#\\u30a8\\u30f3\\u30b8\\u30cb\\u30a2            source    :        '     1    
+    '#\\u30b5\\u30a4\\u30c8\\u5236\\u4f5c'     3    
+    '#\\u30d5\\u30a1\\u30c3\\u30b7\\u30e7\\u30f3'     1    
+    '#\\u30db\\u30fc\\u30e0\\u30da\\u30fc\\u30b8\\u5236\\u4f5c'     3    
+    '#\\u30f1\\u30d3\\u30b9'     1    
+    '#\\u4e2d\\u6587'     1    
+    '#\\u5343\\u4ee3\\u7530\\u533a'     1    
+    '#\\u6025\\u52df\\n'     1    
+    '#\\u6771\\u4eac\\u90fd'     1    
+    '#\\u6a2a\\u6d5c\\u9053\\u5834'     1    
+    '#\\u6c42\\u4eba'     2    
+    '#\\u6d3e\\u9063'     1    
+    '#\\u793e\\u755cnet'     1    
+    '#\\u7981\\u9152\\u6cd5'     1    
+    '#\\u79cb\\u8449\\u539f\\u99c5\\n'     1    
+    '#\\u7d76\\u5bfe\\u306b\\u6b62\\u3081\\u306a\\u3044'     1    
+    '#\\u8106\\u5f31\\u6027\\u60c5\\u5831            source    :        '     1    
+    '#\\u8155\\u6642\\u8a08            source    :        '     1    
+    '#\\u81ea\\u4f5cPC            protected    :false        verified    :false        followers_count    :624        friends_count    :254        listed_count    :21        favourites_count    :9        statuses_count    :2842        created_at    :    Fri'     1    
+    '#\\u8a00\\u3044\\u5024\\u66f8\\u5e97'     1    
+    '#\\u9152\\u304c\\u8db3\\u308a\\u306a\\u304f\\u3066\\u9707\\u3048\\u308b'     1    
+    '#\\u96fb\\u5b50\\u66f8\\u7c4d            source    :        '     1    
+    '#\\u98f2\\u9152\\u4e3b\\u7fa9'     1    
+    '#\\uac10\\uc2dc'     6    
+    '#\\uacfc\\ud559\\uc18c\\uc124'     6    
+    '#\\ub124\\uc774\\ubc84\\uc6f9\\uc18c\\uc124'     9    
+    '#\\ub85c\\ub9e8\\uc2a4\\uc18c\\uc124'     6    
+    '#\\ub9cc\\ub0a8'     2    
+    '#\\ubb38\\ud53c\\uc544'     6    
+    '#\\ubd81\\ud314'     6    
+    '#\\uc18c\\ub77c'     2    
+    '#\\uc18c\\ub77c\\ub137'     2    
+    '#\\uc18c\\uc124'     3    
+    '#\\uc545\\uc131\\ucf54\\ub4dc'     3    
+    '#\\uc624\\ud504            protected    :false        verified    :false        followers_count    :298        friends_count    :395        listed_count    :2        favourites_count    :0        statuses_count    :5762        created_at    :    Sat'     1    
+    '#\\uc624\\ud504            url    :    http:\\/\\/partclub7.com            description    :    #\\ub9de\\ud314'     1    
+    '#\\uc6f9\\uc18c\\uc124'     19    
+    '#\\uc704\\ub108'     1    
+    '#\\uc778\\uc18c'     13    
+    '#\\uc778\\ud130\\ub137\\uc18c\\uc124'     13    
+    '#\\uc870\\uac74'     2    
+    '#\\uc870\\uc544\\ub77c'     6    
+    '#\\ucf54\\ub529'     3    
+    '#\\ucf54\\ub529            source    :        '     2    
+    '#\\ud4e8\\uc804\\uc18c\\uc124'     6    
+    '#\\ud574\\ud0b9'     6    
+    '#\\uf8ffTV'     1    
+    '#\\uff29\\uff34'     1    
+    '#acara'     1    
+    '#accelerationist'     2    
+    '#aclhandweaver'     1    
+    '#activities    '     1    
+    '#ad'     3    
+    '#ads            protected    :false        verified    :false        followers_count    :1692        friends_count    :1434        listed_count    :575        favourites_count    :0        statuses_count    :87146        created_at    :    Thu'     1    
+    '#ads            protected    :false        verified    :false        followers_count    :1693        friends_count    :1434        listed_count    :575        favourites_count    :0        statuses_count    :87128        created_at    :    Thu'     1    
+    '#ads            protected    :false        verified    :false        followers_count    :1694        friends_count    :1434        listed_count    :577        favourites_count    :0        statuses_count    :87157        created_at    :    Thu'     1    
+    '#adsense'     3    
+    '#adtech            source    :        '     1    
+    '#agilesamurai'     1    
+    '#ajax'     1    
+    '#ajax?'     6    
+    '#akf'     1    
+    '#alAqsaUnderAttack'     1    
+    '#alexa'     1    
+    '#alternances            protected    :false        verified    :false        followers_count    :4283        friends_count    :4395        listed_count    :128        favourites_count    :0        statuses_count    :5364        created_at    :    Mon'     1    
+    '#amman'     2    
+    '#analytics'     5    
+    '#analytics            source    :        '     2    
+    '#analytics    '     1    
+    '#android'     1    
+    '#android            source    :        '     3    
+    '#android    #androidgames    #gameinsight            source    :        '     1    
+    '#angular'     1    
+    '#angularJS            protected    :false        verified    :false        followers_count    :1191        friends_count    :2542        listed_count    :109        favourites_count    :2987        statuses_count    :2039        created_at    :    Wed'     1    
+    '#angularj\\u2026            source    :        '     1    
+    '#angularjs'     25    
+    '#angularjs            source    :        '     2    
+    '#angularjs    '     1    
+    '#anime'     4    
+    '#anitaspottery'     1    
+    '#anniversary'     3    
+    '#antique'     8    
+    '#app            source    :        '     2    
+    '#apple'     7    
+    '#apps'     1    
+    '#ar\\u2026            source    :        '     1    
+    '#architect'     2    
+    '#arduino'     3    
+    '#arduino            protected    :false        verified    :false        followers_count    :3503        friends_count    :3491        listed_count    :840        favourites_count    :29        statuses_count    :105140        created_at    :    Tue'     1    
+    '#art'     15    
+    '#art            protected    :false        verified    :false        followers_count    :950        friends_count    :851        listed_count    :275        favourites_count    :294        statuses_count    :32204        created_at    :    Wed'     1    
+    '#art            protected    :false        verified    :false        followers_count    :950        friends_count    :851        listed_count    :275        favourites_count    :294        statuses_count    :32206        created_at    :    Wed'     1    
+    '#art\\u2026            source    :        '     1    
+    '#artificialintelligence'     1    
+    '#artists    '     1    
+    '#artwork'     1    
+    '#asmg'     1    
+    '#atnd'     1    
+    '#attorneys'     1    
+    '#auction'     1    
+    '#aureliaJS'     12    
+    '#automatedeconomy    '     1    
+    '#autonomia            source    :        '     1    
+    '#aws'     2    
+    '#aws            protected    :false        verified    :false        followers_count    :242        friends_count    :112        listed_count    :25        favourites_count    :996        statuses_count    :8614        created_at    :    Fri'     1    
+    '#b\\u00eata    '     2    
+    '#bank'     1    
+    '#basket'     4    
+    '#bbw            source    :        '     1    
+    '#beach'     1    
+    '#beardedgent'     1    
+    '#becausethatshowtwitterworks            protected    :false        verified    :false        followers_count    :367        friends_count    :1013        listed_count    :48        favourites_count    :132        statuses_count    :2652        created_at    :    Thu'     2    
+    '#becausethatshowtwitterworks            protected    :false        verified    :false        followers_count    :367        friends_count    :1013        listed_count    :48        favourites_count    :132        statuses_count    :2656        created_at    :    Thu'     1    
+    '#believe            protected    :false        verified    :true        followers_count    :484906        friends_count    :438472        listed_count    :3856        favourites_count    :101808        statuses_count    :19654        created_at    :    Fri'     1    
+    '#bestbuy'     25    
+    '#bestofEtsy'     1    
+    '#bib'     3    
+    '#bigdata'     18    
+    '#bih'     4    
+    '#bilingual'     2    
+    '#birth            source    :        '     1    
+    '#birthday'     45    
+    '#birthday            source    :        '     2    
+    '#birthday\\u2026            source    :        '     1    
+    '#birthdayspecial'     1    
+    '#biz            source    :        '     1    
+    '#blackfriday    '     25    
+    '#blackish'     1    
+    '#blogging'     1    
+    '#bluemix'     1    
+    '#bluerosesociety'     1    
+    '#blushednudes.'     2    
+    '#bmrtg'     1    
+    '#boating.'     1    
+    '#bobdylan'     1    
+    '#book            source    :        '     1    
+    '#bookpostscouk'     1    
+    '#books'     1    
+    '#bosna'     4    
+    '#botALLY            protected    :false        verified    :false        followers_count    :379        friends_count    :447        listed_count    :21        favourites_count    :2543        statuses_count    :3620        created_at    :    Mon'     1    
+    '#bracelet'     4    
+    '#bracelets'     64    
+    '#branding    '     1    
+    '#brooches'     64    
+    '#bubbles            protected    :false        verified    :false        followers_count    :398        friends_count    :521        listed_count    :30        favourites_count    :924        statuses_count    :2033        created_at    :    Tue'     1    
+    '#business'     2    
+    '#buzz'     1    
+    '#c'     6    
+    '#c            source    :        '     1    
+    '#c#'     5    
+    '#c#            source    :        '     4    
+    '#c\\u2026            source    :        '     2    
+    '#cachejobs'     1    
+    '#cafe'     1    
+    '#cafemocha.'     1    
+    '#calmtechnology            protected    :false        verified    :false        followers_count    :335        friends_count    :534        listed_count    :242        favourites_count    :412        statuses_count    :5569        created_at    :    Thu'     1    
+    '#canvas'     1    
+    '#canvas            source    :        '     1    
+    '#capistrano'     1    
+    '#cappcon2016'     2    
+    '#card'     6    
+    '#cardealer'     2    
+    '#career'     8    
+    '#career            protected    :false        verified    :false        followers_count    :731        friends_count    :901        listed_count    :13        favourites_count    :0        statuses_count    :370        created_at    :    Sat'     1    
+    '#careers'     1    
+    '#career|#employment|#recruitment            protected    :false        verified    :false        followers_count    :75        friends_count    :6        listed_count    :28        favourites_count    :0        statuses_count    :6533        created_at    :    Sun'     1    
+    '#cargirl'     1    
+    '#catchthefever'     4    
+    '#cbcamnh'     2    
+    '#celebrations'     1    
+    '#ceraunophile'     1    
+    '#champagne            protected    :false        verified    :false        followers_count    :954        friends_count    :1176        listed_count    :67        favourites_count    :5131        statuses_count    :10680        created_at    :    Thu'     1    
+    '#che\\u2026            source    :        '     1    
+    '#cheeseburger            protected    :false        verified    :false        followers_count    :258        friends_count    :843        listed_count    :6        favourites_count    :172        statuses_count    :365        created_at    :    Sun'     1    
+    '#chibapm'     1    
+    '#childcare    '     1    
+    '#chr\\u2026            source    :        '     1    
+    '#chris            source    :        '     1    
+    '#christmas'     29    
+    '#christmas            source    :        '     12    
+    '#christmasgifts'     42    
+    '#christmasgifts            source    :        '     2    
+    '#christmasiscoming'     1    
+    '#chukkuvellam            protected    :false        verified    :false        followers_count    :922        friends_count    :370        listed_count    :199        favourites_count    :2        statuses_count    :46628        created_at    :    Sun'     1    
+    '#ci'     2    
+    '#cigars'     1    
+    '#classes            protected    :false        verified    :false        followers_count    :224        friends_count    :8        listed_count    :19        favourites_count    :0        statuses_count    :26827        created_at    :    Fri'     1    
+    '#clef'     2    
+    '#clothing'     1    
+    '#cloud'     1    
+    '#cloud.            protected    :false        verified    :false        followers_count    :368        friends_count    :1111        listed_count    :39        favourites_count    :55        statuses_count    :247        created_at    :    Thu'     1    
+    '#cluster'     1    
+    '#co3081629            source    :        '     1    
+    '#cocoa    '     2    
+    '#cocos2dx'     2    
+    '#cod'     6    
+    '#code'     11    
+    '#code:'     1    
+    '#codeiq'     3    
+    '#coding'     45    
+    '#coding            source    :        '     1    
+    '#codingpractice'     1    
+    '#coffee'     6    
+    '#coffee            source    :        '     3    
+    '#commandline'     1    
+    '#compilers            source    :        '     3    
+    '#concepto'     1    
+    '#continuousintegration            source    :        '     1    
+    '#core'     1    
+    '#counterstrike'     134    
+    '#coupon'     1    
+    '#coupon            protected    :false        verified    :false        followers_count    :1187        friends_count    :199        listed_count    :306        favourites_count    :34        statuses_count    :1050800        created_at    :    Tue'     1    
+    '#coupon            protected    :false        verified    :false        followers_count    :1187        friends_count    :199        listed_count    :306        favourites_count    :34        statuses_count    :1050801        created_at    :    Tue'     1    
+    '#coupon            protected    :false        verified    :false        followers_count    :1187        friends_count    :199        listed_count    :306        favourites_count    :34        statuses_count    :1050802        created_at    :    Tue'     1    
+    '#coupon            protected    :false        verified    :false        followers_count    :1187        friends_count    :199        listed_count    :306        favourites_count    :34        statuses_count    :1050803        created_at    :    Tue'     1    
+    '#coupon            protected    :false        verified    :false        followers_count    :1187        friends_count    :199        listed_count    :306        favourites_count    :34        statuses_count    :1050804        created_at    :    Tue'     1    
+    '#coupon            protected    :false        verified    :false        followers_count    :1187        friends_count    :199        listed_count    :306        favourites_count    :34        statuses_count    :1050805        created_at    :    Tue'     1    
+    '#coupon            protected    :false        verified    :false        followers_count    :1187        friends_count    :199        listed_count    :306        favourites_count    :34        statuses_count    :1050806        created_at    :    Tue'     1    
+    '#coupon            protected    :false        verified    :false        followers_count    :1187        friends_count    :199        listed_count    :306        favourites_count    :34        statuses_count    :1050807        created_at    :    Tue'     1    
+    '#coupon            protected    :false        verified    :false        followers_count    :1187        friends_count    :199        listed_count    :306        favourites_count    :34        statuses_count    :1050808        created_at    :    Tue'     1    
+    '#coupon            protected    :false        verified    :false        followers_count    :1187        friends_count    :199        listed_count    :306        favourites_count    :34        statuses_count    :1050809        created_at    :    Tue'     1    
+    '#coupon            protected    :false        verified    :false        followers_count    :1187        friends_count    :199        listed_count    :306        favourites_count    :34        statuses_count    :1050810        created_at    :    Tue'     1    
+    '#coupon            protected    :false        verified    :false        followers_count    :1187        friends_count    :199        listed_count    :306        favourites_count    :34        statuses_count    :1050811        created_at    :    Tue'     1    
+    '#coupon            protected    :false        verified    :false        followers_count    :1187        friends_count    :199        listed_count    :306        favourites_count    :34        statuses_count    :1050813        created_at    :    Tue'     1    
+    '#coupon            protected    :false        verified    :false        followers_count    :1187        friends_count    :199        listed_count    :306        favourites_count    :34        statuses_count    :1050814        created_at    :    Tue'     1    
+    '#coupon            protected    :false        verified    :false        followers_count    :1187        friends_count    :199        listed_count    :306        favourites_count    :34        statuses_count    :1050816        created_at    :    Tue'     1    
+    '#coupon            protected    :false        verified    :false        followers_count    :1187        friends_count    :199        listed_count    :306        favourites_count    :34        statuses_count    :1050819        created_at    :    Tue'     1    
+    '#coupon            protected    :false        verified    :false        followers_count    :1187        friends_count    :199        listed_count    :306        favourites_count    :34        statuses_count    :1050821        created_at    :    Tue'     1    
+    '#coupon            protected    :false        verified    :false        followers_count    :1187        friends_count    :199        listed_count    :306        favourites_count    :34        statuses_count    :1050824        created_at    :    Tue'     1    
+    '#coupon            protected    :false        verified    :false        followers_count    :1187        friends_count    :199        listed_count    :306        favourites_count    :34        statuses_count    :1050825        created_at    :    Tue'     1    
+    '#coupon            protected    :false        verified    :false        followers_count    :1187        friends_count    :199        listed_count    :306        favourites_count    :34        statuses_count    :1050827        created_at    :    Tue'     1    
+    '#coupon            protected    :false        verified    :false        followers_count    :1187        friends_count    :199        listed_count    :306        favourites_count    :34        statuses_count    :1050831        created_at    :    Tue'     1    
+    '#coupon            protected    :false        verified    :false        followers_count    :1187        friends_count    :199        listed_count    :306        favourites_count    :34        statuses_count    :1050833        created_at    :    Tue'     1    
+    '#coupon            protected    :false        verified    :false        followers_count    :1187        friends_count    :199        listed_count    :306        favourites_count    :34        statuses_count    :1050835        created_at    :    Tue'     1    
+    '#coupon            protected    :false        verified    :false        followers_count    :1187        friends_count    :199        listed_count    :306        favourites_count    :34        statuses_count    :1050837        created_at    :    Tue'     1    
+    '#coupon            protected    :false        verified    :false        followers_count    :941        friends_count    :107        listed_count    :1012        favourites_count    :3        statuses_count    :207534        created_at    :    Thu'     1    
+    '#coupons'     1    
+    '#cowboysnation            protected    :false        verified    :false        followers_count    :830        friends_count    :219        listed_count    :4        favourites_count    :1561        statuses_count    :27972        created_at    :    Mon'     2    
+    '#cplusplus'     6    
+    '#craftbuzz'     1    
+    '#craftcms'     6    
+    '#craftsesh'     1    
+    '#craftshout'     1    
+    '#creamymatte'     2    
+    '#creativedestruction            protected    :false        verified    :false        followers_count    :1231        friends_count    :435        listed_count    :145        favourites_count    :229        statuses_count    :2486        created_at    :    Mon'     1    
+    '#creativedestruction            protected    :false        verified    :false        followers_count    :1232        friends_count    :435        listed_count    :145        favourites_count    :229        statuses_count    :2488        created_at    :    Mon'     1    
+    '#crnagora            protected    :false        verified    :false        followers_count    :1490        friends_count    :157        listed_count    :31        favourites_count    :0        statuses_count    :63015        created_at    :    Fri'     1    
+    '#crnagora            protected    :false        verified    :false        followers_count    :1490        friends_count    :157        listed_count    :31        favourites_count    :0        statuses_count    :63016        created_at    :    Fri'     1    
+    '#crnagora            protected    :false        verified    :false        followers_count    :1490        friends_count    :157        listed_count    :31        favourites_count    :0        statuses_count    :63018        created_at    :    Fri'     1    
+    '#crnagora            protected    :false        verified    :false        followers_count    :1490        friends_count    :157        listed_count    :31        favourites_count    :0        statuses_count    :63019        created_at    :    Fri'     1    
+    '#crotchet'     2    
+    '#crypto'     6    
+    '#crystal'     2    
+    '#crystals'     2    
+    '#csgo'     134    
+    '#csharp'     8    
+    '#csk8'     7    
+    '#csk8            source    :        '     2    
+    '#css'     26    
+    '#css...'     1    
+    '#css3'     28    
+    '#css3    '     1    
+    '#cuddles'     1    
+    '#culture'     1    
+    '#d3js'     2    
+    '#dailydeal    '     25    
+    '#dance'     1    
+    '#data'     10    
+    '#database'     4    
+    '#datagov'     1    
+    '#datascience\\nTweets'     1    
+    '#dataviz'     5    
+    '#dataviz            source    :        '     6    
+    '#deal'     1    
+    '#deals'     2    
+    '#deals_us            protected    :false        verified    :false        followers_count    :1531        friends_count    :0        listed_count    :338        favourites_count    :0        statuses_count    :936021        created_at    :    Fri'     1    
+    '#decemberglambag'     3    
+    '#dementia            source    :        '     1    
+    '#deployment'     1    
+    '#desarrollo'     1    
+    '#design'     1    
+    '#dev'     3    
+    '#dev            source    :        '     6    
+    '#developer'     13    
+    '#developer            protected    :false        verified    :false        followers_count    :137        friends_count    :62        listed_count    :89        favourites_count    :1        statuses_count    :91816        created_at    :    Mon'     1    
+    '#developer            protected    :false        verified    :false        followers_count    :137        friends_count    :62        listed_count    :89        favourites_count    :1        statuses_count    :91817        created_at    :    Mon'     1    
+    '#developer            source    :        '     1    
+    '#developer    '     13    
+    '#development'     4    
+    '#devops'     2    
+    '#diamond'     1    
+    '#digitalmarketing            protected    :false        verified    :false        followers_count    :1137        friends_count    :49        listed_count    :521        favourites_count    :85        statuses_count    :9384        created_at    :    Tue'     1    
+    '#dinnerwithmylove'     1    
+    '#disability'     1    
+    '#discount'     2    
+    '#django'     1    
+    '#docker'     1    
+    '#dontgotoseaworld            protected    :false        verified    :false        followers_count    :246        friends_count    :147        listed_count    :2        favourites_count    :2394        statuses_count    :6222        created_at    :    Mon'     1    
+    '#dotNet'     1    
+    '#dota2'     6    
+    '#dotnet'     4    
+    '#douglascrockford'     4    
+    '#dragon'     3    
+    '#dreamhack'     1    
+    '#dts'     1    
+    '#dutawisata'     3    
+    '#eBay'     3    
+    '#earring'     3    
+    '#ebay'     2    
+    '#ec2'     1    
+    '#eclipse'     3    
+    '#ecochic'     22    
+    '#economist'     2    
+    '#editors15'     5    
+    '#edtech'     4    
+    '#education'     1    
+    '#emberjs    '     1    
+    '#embulk'     1    
+    '#empleo'     1    
+    '#empleobarcelona            source    :        '     1    
+    '#emploi'     3    
+    '#emploi            source    :        '     1    
+    '#empresariales    '     1    
+    '#en'     1    
+    '#entrepreneur'     1    
+    '#entrepreneur    '     2    
+    '#entrepreneurs'     5    
+    '#epiconetsy'     1    
+    '#es6'     10    
+    '#es6    '     1    
+    '#esport'     1    
+    '#espresso'     1    
+    '#esri'     2    
+    '#esrijs'     2    
+    '#etsy'     10    
+    '#etsyAAA'     1    
+    '#etsy\\u2026            source    :        '     3    
+    '#etsygifts'     4    
+    '#etsymntt'     3    
+    '#etsyretwt'     1    
+    '#etsysocial'     1    
+    '#events    '     1    
+    '#express'     4    
+    '#expressjs'     21    
+    '#facebook'     1    
+    '#faceyourfears'     2    
+    '#factories'     1    
+    '#family'     1    
+    '#fandom'     3    
+    '#fashion'     8    
+    '#fashionmode    '     25    
+    '#feedly            source    :        '     3    
+    '#fenton'     4    
+    '#ficaadica            source    :        '     2    
+    '#financejobs            protected    :false        verified    :false        followers_count    :235        friends_count    :65        listed_count    :53        favourites_count    :5        statuses_count    :406384        created_at    :    Sat'     1    
+    '#financejobs            protected    :false        verified    :false        followers_count    :235        friends_count    :65        listed_count    :53        favourites_count    :5        statuses_count    :406414        created_at    :    Sat'     1    
+    '#financejobs            protected    :false        verified    :false        followers_count    :236        friends_count    :65        listed_count    :53        favourites_count    :5        statuses_count    :406354        created_at    :    Sat'     1    
+    '#fineartamerica'     3    
+    '#fintech'     1    
+    '#fintechjobs'     1    
+    '#fishing'     4    
+    '#flask'     2    
+    '#flowers'     1    
+    '#fluentd'     1    
+    '#fluffies'     2    
+    '#follow            protected    :false        verified    :false        followers_count    :810        friends_count    :358        listed_count    :1        favourites_count    :116        statuses_count    :2122        created_at    :    Tue'     1    
+    '#followback'     4    
+    '#food.'     2    
+    '#foodporn'     1    
+    '#for'     1    
+    '#forex'     1    
+    '#formData'     1    
+    '#forsale'     2    
+    '#framework'     2    
+    '#freedom'     1    
+    '#freelance'     7    
+    '#friends'     2    
+    '#fromthesaddle'     1    
+    '#frontend'     3    
+    '#frontend            source    :        '     2    
+    '#fun'     3    
+    '#gadget'     13    
+    '#gadgets'     5    
+    '#game'     2    
+    '#gamedev'     4    
+    '#gamedev.\\r\\nFollow'     1    
+    '#gamification'     1    
+    '#gbl            protected    :false        verified    :false        followers_count    :359        friends_count    :239        listed_count    :66        favourites_count    :216        statuses_count    :1307        created_at    :    Thu'     3    
+    '#geek'     7    
+    '#gem            source    :        '     2    
+    '#gemstone'     4    
+    '#generator'     1    
+    '#generosity'     1    
+    '#genomics'     1    
+    '#geospatial'     1    
+    '#gift'     91    
+    '#gift            source    :        '     4    
+    '#giftguide'     12    
+    '#giftguide\\u2026            source    :        '     1    
+    '#giftidea'     3    
+    '#giftideas'     2    
+    '#gifts'     1    
+    '#gis'     2    
+    '#git'     1    
+    '#glbt'     1    
+    '#glitterpowder\\n\\n#redglitter\\nhttps:\\/\\/t.co\\/bgbbTua8oQ'     1    
+    '#golang'     1    
+    '#gold'     4    
+    '#goodread'     1    
+    '#gotandapm'     1    
+    '#great'     1    
+    '#greetings    '     1    
+    '#groups    '     1    
+    '#growthhack'     1    
+    '#h\\u2026            source    :        '     1    
+    '#hachiojipm'     1    
+    '#hacking'     6    
+    '#hair'     3    
+    '#handmade'     5    
+    '#handmadegifts'     1    
+    '#handmadehourusa'     2    
+    '#happiness            protected    :false        verified    :false        followers_count    :5576        friends_count    :5868        listed_count    :59        favourites_count    :18709        statuses_count    :25879        created_at    :    Sun'     4    
+    '#happy            source    :        '     1    
+    '#health'     3    
+    '#hearts'     2    
+    '#heels'     3    
+    '#hennight'     3    
+    '#heroku'     1    
+    '#hiring'     8    
+    '#homedecor'     1    
+    '#hooray            source    :        '     1    
+    '#horseadventures'     1    
+    '#hot.\\nOu'     1    
+    '#hourofcode'     3    
+    '#hrvatska'     4    
+    '#html'     7    
+    '#html5'     42    
+    '#html5            source    :        '     2    
+    '#html5    '     4    
+    '#iGamerz'     3    
+    '#iOS'     5    
+    '#iOS.'     3    
+    '#iOSAppDevelopment            source    :        '     1    
+    '#iPhone'     4    
+    '#ian1            source    :        '     1    
+    '#illustration'     1    
+    '#imokwiththat            source    :        '     1    
+    '#in\\u2026            source    :        '     1    
+    '#india'     1    
+    '#indiedev'     4    
+    '#indiegamedev'     1    
+    '#info_JavaWisata            source    :        '     2    
+    '#infographic'     1    
+    '#informatica            source    :        '     1    
+    '#information'     9    
+    '#information.'     6    
+    '#infosec'     2    
+    '#infosec            protected    :false        verified    :false        followers_count    :1672        friends_count    :2113        listed_count    :614        favourites_count    :2265        statuses_count    :7533        created_at    :    Fri'     1    
+    '#infosec            protected    :false        verified    :false        followers_count    :1672        friends_count    :2113        listed_count    :614        favourites_count    :2265        statuses_count    :7534        created_at    :    Fri'     1    
+    '#infosec            protected    :false        verified    :false        followers_count    :1672        friends_count    :2113        listed_count    :614        favourites_count    :2265        statuses_count    :7537        created_at    :    Fri'     1    
+    '#infosec            protected    :false        verified    :false        followers_count    :1672        friends_count    :2113        listed_count    :614        favourites_count    :2265        statuses_count    :7538        created_at    :    Fri'     1    
+    '#infosec            protected    :false        verified    :false        followers_count    :1672        friends_count    :2113        listed_count    :614        favourites_count    :2265        statuses_count    :7539        created_at    :    Fri'     1    
+    '#infosec            source    :        '     1    
+    '#ing\\u00e9nieur'     1    
+    '#innovaci\\u00f3n'     1    
+    '#inspired'     1    
+    '#insurtech'     1    
+    '#insurtechjobs'     1    
+    '#iosdev'     3    
+    '#ipad'     1    
+    '#iphone'     1    
+    '#iphone            source    :        '     6    
+    '#ipod'     2    
+    '#isolophilia            protected    :false        verified    :false        followers_count    :96        friends_count    :91        listed_count    :1        favourites_count    :1773        statuses_count    :1313        created_at    :    Sat'     1    
+    '#itposloviinfo            source    :        '     2    
+    '#jQuery'     48    
+    '#j\\u2026            source    :        '     1    
+    '#ja\\u2026            source    :        '     3    
+    '#jav\\u2026            source    :        '     1    
+    '#java'     73    
+    '#java            source    :        '     10    
+    '#java    '     3    
+    '#java8'     5    
+    '#java\\u2026'     1    
+    '#java\\u2026            source    :        '     1    
+    '#javaautmation'     3    
+    '#javaautmation            source    :        '     4    
+    '#javadeveloper'     2    
+    '#javascr\\u2026            source    :        '     4    
+    '#javascript'     265    
+    '#javascript            source    :        '     69    
+    '#javascript    '     6    
+    '#javascript\\n\\nFollow'     7    
+    '#jaws'     3    
+    '#jdk9'     1    
+    '#jewellery'     1    
+    '#jewellery            source    :        '     12    
+    '#jewellry'     4    
+    '#jewelry'     29    
+    '#jigsaw            source    :        '     1    
+    '#jo'     2    
+    '#job'     34    
+    '#job            protected    :false        verified    :false        followers_count    :2153        friends_count    :537        listed_count    :617        favourites_count    :0        statuses_count    :159704        created_at    :    Thu'     1    
+    '#job            protected    :false        verified    :false        followers_count    :2153        friends_count    :537        listed_count    :617        favourites_count    :0        statuses_count    :159706        created_at    :    Thu'     1    
+    '#job            protected    :false        verified    :false        followers_count    :3063        friends_count    :235        listed_count    :475        favourites_count    :0        statuses_count    :255892        created_at    :    Thu'     1    
+    '#job            source    :        '     19    
+    '#job:'     8    
+    '#jobs'     118    
+    '#jobs            protected    :false        verified    :false        followers_count    :338        friends_count    :533        listed_count    :41        favourites_count    :0        statuses_count    :7717        created_at    :    Wed'     1    
+    '#jobs            source    :        '     14    
+    '#jobs    '     3    
+    '#jobs.'     1    
+    '#jobsearch'     4    
+    '#jobsearch            source    :        '     1    
+    '#jobsearch.today'     1    
+    '#jobsila'     1    
+    '#jobsuchemonsterde            source    :        '     1    
+    '#joe'     1    
+    '#joomla'     6    
+    '#joyas'     4    
+    '#jquery'     76    
+    '#jquery            source    :        '     6    
+    '#js'     13    
+    '#js            source    :        '     2    
+    '#json'     2    
+    '#just'     2    
+    '#karmasutra'     3    
+    '#katialangenheim'     2    
+    '#kawaii'     1    
+    '#keminggris            source    :        '     1    
+    '#kerja'     1    
+    '#keying'     3    
+    '#keyring..'     2    
+    '#kidscancode'     3    
+    '#kindle'     1    
+    '#l\\u00f6wenbr\\u00e4u'     1    
+    '#lashsensational    '     2    
+    '#lastweekinkzoo'     1    
+    '#lasvegas'     1    
+    '#latte'     1    
+    '#lavori'     2    
+    '#leadership'     1    
+    '#leanon'     3    
+    '#lesbiana            source    :        '     1    
+    '#lgbt'     3    
+    '#lgtb'     1    
+    '#libGDX.'     3    
+    '#life'     3    
+    '#linux    '     2    
+    '#list-comprehension'     1    
+    '#listenlive            source    :        '     1    
+    '#liveevents    '     25    
+    '#liveformichael-Bruins'     1    
+    '#localnews    '     1    
+    '#loker'     1    
+    '#lols'     1    
+    '#lostfound    '     1    
+    '#lowongan'     1    
+    '#lua\\n#python'     1    
+    '#ma\\u2026            source    :        '     1    
+    '#mac            protected    :false        verified    :false        followers_count    :80        friends_count    :23        listed_count    :12        favourites_count    :0        statuses_count    :20924        created_at    :    Fri'     1    
+    '#macys!'     1    
+    '#magento'     6    
+    '#malang'     2    
+    '#malware'     10    
+    '#marketing'     4    
+    '#marketing    '     1    
+    '#marxbrothers            source    :        '     1    
+    '#massachusetts\\u2026'     1    
+    '#mesos'     1    
+    '#meteor'     3    
+    '#meteorjs            source    :        '     3    
+    '#meteorjs    '     1    
+    '#metrics    '     1    
+    '#microsoft            source    :        '     1    
+    '#minecraft'     1    
+    '#misfit'     1    
+    '#ml'     2    
+    '#mobile'     1    
+    '#mobiletech'     1    
+    '#modernweb'     11    
+    '#money'     4    
+    '#mongodb    '     1    
+    '#montypython'     2    
+    '#morethanabootcamp'     1    
+    '#motivation'     1    
+    '#movie'     4    
+    '#movies'     2    
+    '#moz            source    :        '     5    
+    '#muangthai            source    :        '     1    
+    '#mufc            protected    :false        verified    :false        followers_count    :85        friends_count    :131        listed_count    :44        favourites_count    :3113        statuses_count    :28933        created_at    :    Thu'     1    
+    '#multimedia'     3    
+    '#music'     2    
+    '#musicians    '     1    
+    '#n\\u2026            source    :        '     1    
+    '#native'     2    
+    '#ne...\\nhttps:\\/\\/t.co\\/VFcYk1OELd'     1    
+    '#ne...\\nhttps:\\/\\/t.co\\/ohzIgSmrNh'     1    
+    '#necklaces'     64    
+    '#netflixing'     1    
+    '#netsec'     1    
+    '#networkengineering            protected    :false        verified    :false        followers_count    :101        friends_count    :853        listed_count    :26        favourites_count    :29        statuses_count    :21417        created_at    :    Tue'     1    
+    '#networkengineering            protected    :false        verified    :false        followers_count    :101        friends_count    :853        listed_count    :26        favourites_count    :29        statuses_count    :21421        created_at    :    Tue'     1    
+    '#networkengineering            protected    :false        verified    :false        followers_count    :101        friends_count    :853        listed_count    :26        favourites_count    :29        statuses_count    :21425        created_at    :    Tue'     1    
+    '#networkengineering            protected    :false        verified    :false        followers_count    :101        friends_count    :853        listed_count    :26        favourites_count    :29        statuses_count    :21427        created_at    :    Tue'     1    
+    '#networkengineering            protected    :false        verified    :false        followers_count    :101        friends_count    :853        listed_count    :26        favourites_count    :29        statuses_count    :21447        created_at    :    Tue'     1    
+    '#networkengineering            protected    :false        verified    :false        followers_count    :101        friends_count    :853        listed_count    :26        favourites_count    :29        statuses_count    :21461        created_at    :    Tue'     1    
+    '#newportrichey            protected    :false        verified    :false        followers_count    :3269        friends_count    :3939        listed_count    :624        favourites_count    :1434        statuses_count    :64275        created_at    :    Sat'     1    
+    '#news'     19    
+    '#newyork'     1    
+    '#nginx'     4    
+    '#nginxconf'     4    
+    '#nicolive'     1    
+    '#node'     1    
+    '#node            source    :        '     2    
+    '#node.js'     3    
+    '#nodejs'     62    
+    '#nodejs    '     1    
+    '#nofilter            protected    :false        verified    :false        followers_count    :51837        friends_count    :1510        listed_count    :3762        favourites_count    :364        statuses_count    :107465        created_at    :    Tue'     1    
+    '#nowplaying'     2    
+    '#nowplaying            source    :        '     2    
+    '#np'     1    
+    '#npm'     3    
+    '#nseg'     2    
+    '#nuascannan            source    :        '     1    
+    '#nuclear'     1    
+    '#nyjavasig'     2    
+    '#object\\    \\nCool\\n\\nUtility'     1    
+    '#objective-c'     1    
+    '#oglasizaposao'     4    
+    '#online'     4    
+    '#onsale'     3    
+    '#onwinechat'     1    
+    '#openjdk'     1    
+    '#openquestion            source    :        '     2    
+    '#opensource'     1    
+    '#opportunity'     6    
+    '#oppression'     1    
+    '#oracle            source    :        '     1    
+    '#otc'     2    
+    '#otcmarkets            source    :        '     2    
+    '#outsourcing'     1    
+    '#p5js'     1    
+    '#p\\u2026            source    :        '     1    
+    '#pakayu'     3    
+    '#pandas            source    :        '     2    
+    '#pantheism    '     1    
+    '#partylikeajournalist'     3    
+    '#paypal'     6    
+    '#per\\u2026            source    :        '     1    
+    '#perl'     8    
+    '#pets'     1    
+    '#pets    '     1    
+    '#phantom'     1    
+    '#phonecases'     2    
+    '#photo'     2    
+    '#photography'     2    
+    '#php'     21    
+    '#php            source    :        '     5    
+    '#piccadilly            source    :        '     1    
+    '#pics'     1    
+    '#pics            source    :        '     1    
+    '#piggys'     1    
+    '#platanosplaypokemon'     1    
+    '#plugin            protected    :false        verified    :false        followers_count    :324        friends_count    :44        listed_count    :348        favourites_count    :0        statuses_count    :20508        created_at    :    Thu'     1    
+    '#plugins'     3    
+    '#podcasts'     1    
+    '#pokemon'     2    
+    '#politics    '     1    
+    '#polyvoreStyle            source    :        '     1    
+    '#porn'     4    
+    '#posao'     4    
+    '#poslovi'     6    
+    '#poslovi            source    :        '     2    
+    '#power'     2    
+    '#pr            source    :        '     1    
+    '#praca'     1    
+    '#present'     5    
+    '#presto'     1    
+    '#prints'     3    
+    '#privacy'     2    
+    '#productivity'     1    
+    '#program:'     1    
+    '#programmer'     1    
+    '#programmerhumor'     6    
+    '#programming'     39    
+    '#programming            protected    :false        verified    :false        followers_count    :19662        friends_count    :21518        listed_count    :421        favourites_count    :60        statuses_count    :1971        created_at    :    Thu'     2    
+    '#programming            protected    :false        verified    :false        followers_count    :19663        friends_count    :21518        listed_count    :422        favourites_count    :60        statuses_count    :1971        created_at    :    Thu'     1    
+    '#programming            source    :        '     1    
+    '#progressive'     1    
+    '#promocodes'     1    
+    '#promom            source    :        '     1    
+    '#promomyshop'     8    
+    '#protips            protected    :false        verified    :false        followers_count    :11247        friends_count    :1291        listed_count    :120        favourites_count    :19354        statuses_count    :7809        created_at    :    Tue'     2    
+    '#proxy'     1    
+    '#ps4'     6    
+    '#psn'     6    
+    '#pullman'     2    
+    '#pullmanbarbershopmlg'     2    
+    '#purse'     1    
+    '#python'     30    
+    '#python            source    :        '     29    
+    '#python3'     2    
+    '#python3            source    :        '     1    
+    '#rUGER'     8    
+    '#racism.'     1    
+    '#rails'     13    
+    '#reactjs'     14    
+    '#rebel'     1    
+    '#recruiting    '     3    
+    '#red'     2    
+    '#rednecklace'     1    
+    '#redsoles'     1    
+    '#redux'     1    
+    '#reiki'     2    
+    '#remote'     2    
+    '#requestIdleCallback'     3    
+    '#requirement'     1    
+    '#resumetips    '     3    
+    '#rideshare    '     1    
+    '#ring'     2    
+    '#ringdish\\nhttps:\\/\\/t.co\\/7FHB9JuAhz'     1    
+    '#rings'     64    
+    '#roadto1000subs            protected    :false        verified    :false        followers_count    :249        friends_count    :263        listed_count    :1        favourites_count    :3956        statuses_count    :3393        created_at    :    Thu'     1    
+    '#robotics'     3    
+    '#rockstar            protected    :false        verified    :false        followers_count    :631        friends_count    :503        listed_count    :131        favourites_count    :5        statuses_count    :10993        created_at    :    Sat'     1    
+    '#rossi46'     2    
+    '#rss'     6    
+    '#rstats'     1    
+    '#rtoe1            source    :        '     15    
+    '#ruby'     35    
+    '#ruby            source    :        '     1    
+    '#ruby-on-rails            source    :        '     1    
+    '#rubybiz'     1    
+    '#rubylang            source    :        '     1    
+    '#rubyonrails            source    :        '     1    
+    '#rwby'     3    
+    '#safari'     1    
+    '#sakarepmu'     1    
+    '#sale'     2    
+    '#sam'     10    
+    '#sandyspringsfarmersmarket'     2    
+    '#sap'     1    
+    '#saphcp            protected    :false        verified    :false        followers_count    :193        friends_count    :514        listed_count    :54        favourites_count    :609        statuses_count    :1772        created_at    :    Mon'     1    
+    '#satalie'     1    
+    '#savvyparty            protected    :false        verified    :false        followers_count    :3366        friends_count    :1797        listed_count    :754        favourites_count    :927        statuses_count    :195630        created_at    :    Wed'     1    
+    '#scatpackshaker'     1    
+    '#science'     1    
+    '#search'     1    
+    '#secret'     3    
+    '#security'     8    
+    '#security            source    :        '     2    
+    '#selenium'     17    
+    '#selenium            source    :        '     1    
+    '#selfie'     1    
+    '#sem    '     1    
+    '#sensuelles'     1    
+    '#seo'     5    
+    '#seo            protected    :false        verified    :false        followers_count    :411        friends_count    :92        listed_count    :91        favourites_count    :6        statuses_count    :28074        created_at    :    Mon'     2    
+    '#seo    '     1    
+    '#sex'     6    
+    '#sfdk2014            source    :        '     3    
+    '#shopmycloset            source    :        '     1    
+    '#shoppershour'     1    
+    '#sitecore'     4    
+    '#smartphone'     1    
+    '#smo    '     1    
+    '#snapseed'     1    
+    '#snowboarder'     1    
+    '#socent'     1    
+    '#social'     2    
+    '#socialmedia            protected    :false        verified    :false        followers_count    :343        friends_count    :597        listed_count    :274        favourites_count    :440        statuses_count    :7860        created_at    :    Tue'     1    
+    '#software'     1    
+    '#softwaredeveloper'     1    
+    '#soluciones'     1    
+    '#souDev'     2    
+    '#sound\\n#drupal'     6    
+    '#space'     6    
+    '#spark'     1    
+    '#specialgift'     6    
+    '#springio'     4    
+    '#srb'     2    
+    '#srbija'     4    
+    '#src:tunesviewer'     1    
+    '#src:uicilibris'     1    
+    '#stage'     1    
+    '#stagnight            source    :        '     3    
+    '#stamps    '     1    
+    '#startUp'     6    
+    '#startup'     3    
+    '#startup            source    :        '     7    
+    '#startup    '     1    
+    '#starwars'     3    
+    '#statement'     2    
+    '#stats'     1    
+    '#steam'     6    
+    '#strategist            protected    :false        verified    :false        followers_count    :919        friends_count    :968        listed_count    :21        favourites_count    :164        statuses_count    :9151        created_at    :    Mon'     1    
+    '#stringify            source    :        '     2    
+    '#supermum'     3    
+    '#surf'     1    
+    '#surveillance'     1    
+    '#survivorfinale'     1    
+    '#swift'     1    
+    '#swig            source    :        '     4    
+    '#taman'     1    
+    '#tea'     3    
+    '#teamFollowback'     3    
+    '#teamcap            screen_name    :    leightyrells            location    :    \\u00e1ries'     1    
+    '#teamfollowback            protected    :false        verified    :false        followers_count    :97657        friends_count    :92824        listed_count    :2031        favourites_count    :35330        statuses_count    :904243        created_at    :    Fri'     1    
+    '#teamfollowback            protected    :false        verified    :false        followers_count    :97660        friends_count    :92824        listed_count    :2031        favourites_count    :35330        statuses_count    :904260        created_at    :    Fri'     1    
+    '#teamlove'     15    
+    '#tech'     5    
+    '#tech    '     1    
+    '#techbuzz'     3    
+    '#techbuzzhtml5js            source    :        '     2    
+    '#techforgood'     1    
+    '#technologies'     4    
+    '#technology'     16    
+    '#telegram'     1    
+    '#temptteam'     1    
+    '#thailand'     1    
+    '#thesearefacts'     3    
+    '#thewebf\\u2026            source    :        '     1    
+    '#thewebfix'     2    
+    '#timetravel'     1    
+    '#today'     1    
+    '#todayilearned'     3    
+    '#toomanyhashtags'     3    
+    '#toteba\\u2026            source    :        '     1    
+    '#totebags'     2    
+    '#trabajo'     1    
+    '#transhumanism    '     1    
+    '#transpiler'     7    
+    '#travail'     4    
+    '#travel            protected    :false        verified    :false        followers_count    :179        friends_count    :442        listed_count    :23        favourites_count    :468        statuses_count    :338        created_at    :    Thu'     1    
+    '#travel_uk    '     24    
+    '#travel_us    '     1    
+    '#trends2015'     5    
+    '#turquoise'     3    
+    '#tutorial'     22    
+    '#tutorial            source    :        '     6    
+    '#tutorial\\u2026            source    :        '     2    
+    '#tutorials'     3    
+    '#tv            source    :        '     3    
+    '#twitterVMteam'     2    
+    '#uWaterloo'     1    
+    '#udemy'     25    
+    '#ui    '     1    
+    '#uncensored'     1    
+    '#uniteJavascript            source    :        '     1    
+    '#unity3d'     3    
+    '#upwork'     1    
+    '#upwork.'     1    
+    '#utah'     2    
+    '#ux    '     1    
+    '#vacature'     3    
+    '#vendo'     1    
+    '#verabradley'     1    
+    '#version'     2    
+    '#vim'     1    
+    '#vintage'     15    
+    '#vintagebarware    '     1    
+    '#vintagehomedecor    '     1    
+    '#vintagehousewares            protected    :false        verified    :false        followers_count    :6620        friends_count    :2438        listed_count    :236        favourites_count    :109        statuses_count    :165358        created_at    :    Wed'     1    
+    '#visualisation'     1    
+    '#visualization'     1    
+    '#vogueteam'     15    
+    '#volunteers    '     1    
+    '#vsu'     1    
+    '#vsu17'     1    
+    '#vsu18'     1    
+    '#vsu19'     1    
+    '#w\\/m'     1    
+    '#w\\u2026'     2    
+    '#w\\u2026            source    :        '     1    
+    '#wallart            protected    :false        verified    :false        followers_count    :6765        friends_count    :5452        listed_count    :157        favourites_count    :1        statuses_count    :34117        created_at    :    Mon'     1    
+    '#wantrepreneur'     1    
+    '#waseda'     1    
+    '#watches            protected    :false        verified    :false        followers_count    :34        friends_count    :6        listed_count    :7        favourites_count    :0        statuses_count    :21315        created_at    :    Tue'     1    
+    '#watches            protected    :false        verified    :false        followers_count    :34        friends_count    :6        listed_count    :7        favourites_count    :0        statuses_count    :21318        created_at    :    Tue'     1    
+    '#watches            protected    :false        verified    :false        followers_count    :45        friends_count    :9        listed_count    :4        favourites_count    :0        statuses_count    :22551        created_at    :    Mon'     1    
+    '#watches            protected    :false        verified    :false        followers_count    :47        friends_count    :24        listed_count    :6        favourites_count    :0        statuses_count    :23132        created_at    :    Mon'     1    
+    '#watches            protected    :false        verified    :false        followers_count    :47        friends_count    :24        listed_count    :6        favourites_count    :0        statuses_count    :23133        created_at    :    Mon'     1    
+    '#watches            protected    :false        verified    :false        followers_count    :47        friends_count    :7        listed_count    :4        favourites_count    :0        statuses_count    :21964        created_at    :    Mon'     1    
+    '#watches            protected    :false        verified    :false        followers_count    :47        friends_count    :7        listed_count    :4        favourites_count    :0        statuses_count    :21965        created_at    :    Mon'     1    
+    '#watches            protected    :false        verified    :false        followers_count    :48        friends_count    :3        listed_count    :30        favourites_count    :0        statuses_count    :25733        created_at    :    Mon'     1    
+    '#watches            protected    :false        verified    :false        followers_count    :48        friends_count    :3        listed_count    :30        favourites_count    :0        statuses_count    :25737        created_at    :    Mon'     1    
+    '#watches            protected    :false        verified    :false        followers_count    :48        friends_count    :3        listed_count    :30        favourites_count    :0        statuses_count    :25774        created_at    :    Mon'     1    
+    '#watches            protected    :false        verified    :false        followers_count    :48        friends_count    :36        listed_count    :5        favourites_count    :0        statuses_count    :22825        created_at    :    Tue'     1    
+    '#watches            protected    :false        verified    :false        followers_count    :48        friends_count    :36        listed_count    :5        favourites_count    :0        statuses_count    :22831        created_at    :    Tue'     1    
+    '#watches            protected    :false        verified    :false        followers_count    :48        friends_count    :8        listed_count    :5        favourites_count    :0        statuses_count    :23003        created_at    :    Mon'     1    
+    '#watches            protected    :false        verified    :false        followers_count    :49        friends_count    :26        listed_count    :6        favourites_count    :0        statuses_count    :22605        created_at    :    Mon'     1    
+    '#watches            protected    :false        verified    :false        followers_count    :49        friends_count    :26        listed_count    :6        favourites_count    :0        statuses_count    :22612        created_at    :    Mon'     1    
+    '#watches            protected    :false        verified    :false        followers_count    :49        friends_count    :37        listed_count    :3        favourites_count    :0        statuses_count    :21150        created_at    :    Tue'     1    
+    '#watches            protected    :false        verified    :false        followers_count    :50        friends_count    :45        listed_count    :6        favourites_count    :0        statuses_count    :21489        created_at    :    Tue'     1    
+    '#watches            protected    :false        verified    :false        followers_count    :50        friends_count    :45        listed_count    :6        favourites_count    :0        statuses_count    :21491        created_at    :    Tue'     1    
+    '#watches            protected    :false        verified    :false        followers_count    :50        friends_count    :45        listed_count    :6        favourites_count    :0        statuses_count    :21508        created_at    :    Tue'     1    
+    '#watches            protected    :false        verified    :false        followers_count    :50        friends_count    :45        listed_count    :6        favourites_count    :0        statuses_count    :21517        created_at    :    Tue'     1    
+    '#watches            protected    :false        verified    :false        followers_count    :53        friends_count    :7        listed_count    :6        favourites_count    :0        statuses_count    :22112        created_at    :    Mon'     1    
+    '#watches            protected    :false        verified    :false        followers_count    :54        friends_count    :6        listed_count    :7        favourites_count    :0        statuses_count    :22796        created_at    :    Mon'     1    
+    '#watches            protected    :false        verified    :false        followers_count    :54        friends_count    :6        listed_count    :7        favourites_count    :0        statuses_count    :22797        created_at    :    Mon'     1    
+    '#watches            protected    :false        verified    :false        followers_count    :54        friends_count    :6        listed_count    :7        favourites_count    :0        statuses_count    :22798        created_at    :    Mon'     1    
+    '#watches            protected    :false        verified    :false        followers_count    :54        friends_count    :6        listed_count    :7        favourites_count    :0        statuses_count    :22809        created_at    :    Mon'     1    
+    '#watches            protected    :false        verified    :false        followers_count    :54        friends_count    :6        listed_count    :7        favourites_count    :0        statuses_count    :22832        created_at    :    Mon'     1    
+    '#watches            protected    :false        verified    :false        followers_count    :54        friends_count    :6        listed_count    :7        favourites_count    :0        statuses_count    :22835        created_at    :    Mon'     1    
+    '#watches            protected    :false        verified    :false        followers_count    :54        friends_count    :6        listed_count    :7        favourites_count    :0        statuses_count    :22837        created_at    :    Mon'     1    
+    '#watches            protected    :false        verified    :false        followers_count    :54        friends_count    :6        listed_count    :7        favourites_count    :0        statuses_count    :22849        created_at    :    Mon'     1    
+    '#watches            protected    :false        verified    :false        followers_count    :54        friends_count    :6        listed_count    :7        favourites_count    :0        statuses_count    :22854        created_at    :    Mon'     1    
+    '#watches            protected    :false        verified    :false        followers_count    :55        friends_count    :34        listed_count    :6        favourites_count    :0        statuses_count    :22379        created_at    :    Tue'     1    
+    '#watches            protected    :false        verified    :false        followers_count    :56        friends_count    :36        listed_count    :8        favourites_count    :0        statuses_count    :22445        created_at    :    Mon'     1    
+    '#watches            protected    :false        verified    :false        followers_count    :56        friends_count    :36        listed_count    :8        favourites_count    :0        statuses_count    :22472        created_at    :    Mon'     1    
+    '#watches            protected    :false        verified    :false        followers_count    :57        friends_count    :23        listed_count    :7        favourites_count    :0        statuses_count    :24852        created_at    :    Mon'     1    
+    '#watches            protected    :false        verified    :false        followers_count    :57        friends_count    :7        listed_count    :7        favourites_count    :0        statuses_count    :22171        created_at    :    Mon'     1    
+    '#watches            protected    :false        verified    :false        followers_count    :58        friends_count    :28        listed_count    :21        favourites_count    :0        statuses_count    :24617        created_at    :    Mon'     1    
+    '#watches            protected    :false        verified    :false        followers_count    :59        friends_count    :4        listed_count    :5        favourites_count    :1        statuses_count    :24878        created_at    :    Mon'     1    
+    '#watches            protected    :false        verified    :false        followers_count    :59        friends_count    :4        listed_count    :5        favourites_count    :1        statuses_count    :24880        created_at    :    Mon'     1    
+    '#watches            protected    :false        verified    :false        followers_count    :59        friends_count    :4        listed_count    :5        favourites_count    :1        statuses_count    :24886        created_at    :    Mon'     1    
+    '#watches            protected    :false        verified    :false        followers_count    :59        friends_count    :4        listed_count    :5        favourites_count    :1        statuses_count    :24887        created_at    :    Mon'     1    
+    '#watches            protected    :false        verified    :false        followers_count    :59        friends_count    :4        listed_count    :5        favourites_count    :1        statuses_count    :24894        created_at    :    Mon'     1    
+    '#watches            protected    :false        verified    :false        followers_count    :59        friends_count    :4        listed_count    :5        favourites_count    :1        statuses_count    :24914        created_at    :    Mon'     1    
+    '#watches            protected    :false        verified    :false        followers_count    :59        friends_count    :4        listed_count    :5        favourites_count    :1        statuses_count    :24916        created_at    :    Mon'     1    
+    '#watches            protected    :false        verified    :false        followers_count    :60        friends_count    :23        listed_count    :29        favourites_count    :0        statuses_count    :23275        created_at    :    Mon'     1    
+    '#watches            protected    :false        verified    :false        followers_count    :62        friends_count    :44        listed_count    :4        favourites_count    :0        statuses_count    :21515        created_at    :    Tue'     1    
+    '#watches            protected    :false        verified    :false        followers_count    :68        friends_count    :30        listed_count    :6        favourites_count    :0        statuses_count    :23422        created_at    :    Mon'     1    
+    '#watches            protected    :false        verified    :false        followers_count    :69        friends_count    :11        listed_count    :5        favourites_count    :0        statuses_count    :23172        created_at    :    Mon'     1    
+    '#watches            protected    :false        verified    :false        followers_count    :69        friends_count    :11        listed_count    :5        favourites_count    :0        statuses_count    :23180        created_at    :    Mon'     1    
+    '#watches            protected    :false        verified    :false        followers_count    :71        friends_count    :39        listed_count    :29        favourites_count    :0        statuses_count    :26349        created_at    :    Mon'     1    
+    '#watches            protected    :false        verified    :false        followers_count    :71        friends_count    :39        listed_count    :29        favourites_count    :0        statuses_count    :26353        created_at    :    Mon'     1    
+    '#watches            protected    :false        verified    :false        followers_count    :73        friends_count    :17        listed_count    :33        favourites_count    :0        statuses_count    :25023        created_at    :    Mon'     1    
+    '#watches            protected    :false        verified    :false        followers_count    :73        friends_count    :17        listed_count    :33        favourites_count    :0        statuses_count    :25050        created_at    :    Mon'     1    
+    '#watches            protected    :false        verified    :false        followers_count    :73        friends_count    :17        listed_count    :33        favourites_count    :0        statuses_count    :25087        created_at    :    Mon'     1    
+    '#watches            protected    :false        verified    :false        followers_count    :73        friends_count    :35        listed_count    :3        favourites_count    :0        statuses_count    :22315        created_at    :    Mon'     1    
+    '#watches            protected    :false        verified    :false        followers_count    :73        friends_count    :35        listed_count    :3        favourites_count    :0        statuses_count    :22321        created_at    :    Mon'     1    
+    '#watches            protected    :false        verified    :false        followers_count    :73        friends_count    :35        listed_count    :3        favourites_count    :0        statuses_count    :22331        created_at    :    Mon'     1    
+    '#watches            protected    :false        verified    :false        followers_count    :73        friends_count    :35        listed_count    :3        favourites_count    :0        statuses_count    :22332        created_at    :    Mon'     1    
+    '#watches            protected    :false        verified    :false        followers_count    :74        friends_count    :41        listed_count    :21        favourites_count    :0        statuses_count    :26284        created_at    :    Mon'     1    
+    '#watches            protected    :false        verified    :false        followers_count    :76        friends_count    :25        listed_count    :21        favourites_count    :0        statuses_count    :24694        created_at    :    Mon'     1    
+    '#watches            protected    :false        verified    :false        followers_count    :79        friends_count    :40        listed_count    :7        favourites_count    :0        statuses_count    :22149        created_at    :    Mon'     1    
+    '#watches            protected    :false        verified    :false        followers_count    :91        friends_count    :38        listed_count    :27        favourites_count    :0        statuses_count    :24407        created_at    :    Mon'     1    
+    '#watches            protected    :false        verified    :false        followers_count    :91        friends_count    :38        listed_count    :27        favourites_count    :0        statuses_count    :24408        created_at    :    Mon'     1    
+    '#watches            protected    :false        verified    :false        followers_count    :91        friends_count    :38        listed_count    :27        favourites_count    :0        statuses_count    :24409        created_at    :    Mon'     1    
+    '#watches            protected    :false        verified    :false        followers_count    :91        friends_count    :38        listed_count    :27        favourites_count    :0        statuses_count    :24411        created_at    :    Mon'     1    
+    '#watchmen'     3    
+    '#we\\u2026'     2    
+    '#web'     15    
+    '#webTools'     3    
+    '#web\\u2026            source    :        '     1    
+    '#webd\\u2026'     1    
+    '#webd\\u2026            source    :        '     2    
+    '#webde\\u2026            source    :        '     4    
+    '#webdesign'     39    
+    '#webdesign            source    :        '     14    
+    '#webdesign    '     17    
+    '#webdesigner'     3    
+    '#webdev'     105    
+    '#webdev            source    :        '     18    
+    '#webdev\\u2026            source    :        '     2    
+    '#webdevelopment'     8    
+    '#webdevelopment            source    :        '     4    
+    '#webdevelopment    '     3    
+    '#webdevelopment...'     3    
+    '#webdriver            source    :        '     1    
+    '#webproxy'     1    
+    '#weddings            source    :        '     1    
+    '#weddingwednesday            source    :        '     1    
+    '#wellbeing            source    :        '     1    
+    '#werk'     1    
+    '#werkgezocht'     3    
+    '#west'     1    
+    '#westernuchem            protected    :false        verified    :false        followers_count    :94        friends_count    :102        listed_count    :3        favourites_count    :8        statuses_count    :120        created_at    :    Thu'     1    
+    '#wheelchair'     1    
+    '#wheelgunwednesday'     8    
+    '#why'     4    
+    '#windows'     2    
+    '#windowsphone\\n#arduino'     6    
+    '#winelover'     1    
+    '#with'     1    
+    '#wizInfo'     1    
+    '#wnpp'     1    
+    '#wordpress'     35    
+    '#work'     2    
+    '#writer'     3    
+    '#wtf            source    :        '     2    
+    '#wttd'     1    
+    '#xbox'     6    
+    '#xhtml            source    :        '     1    
+    '#xmas'     2    
+    '#xmen'     3    
+    '#yokohamapm            protected    :false        verified    :false        followers_count    :1340        friends_count    :1762        listed_count    :105        favourites_count    :16159        statuses_count    :31033        created_at    :    Sat'     1    
+    '#zaposlenje'     4    
+    '#zerojudge            source    :        '     1    
+    '#zupalive'     1    
+    '$'     5    
+    '$            screen_name    :    5LaunchJacking5            location    :    Warm'     1    
+    '$$            source    :        '     1    
+    '$$$$            protected    :false        verified    :false        followers_count    :2981        friends_count    :3644        listed_count    :315        favourites_count    :1        statuses_count    :69143        created_at    :    Sun'     1    
+    '$$$$            protected    :false        verified    :false        followers_count    :715        friends_count    :808        listed_count    :356        favourites_count    :0        statuses_count    :56714        created_at    :    Sun'     1    
+    '$$$$            protected    :false        verified    :false        followers_count    :715        friends_count    :808        listed_count    :356        favourites_count    :0        statuses_count    :56715        created_at    :    Sun'     1    
+    '$0'     1    
+    '$0\\n1.'     2    
+    '$10'     3    
+    '$10!            protected    :false        ver
